@@ -1,0 +1,650 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Flintshire Planning — Type Browser</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;600&family=IBM+Plex+Sans:wght@300;400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg:         #0d1117;
+    --surface:    #161b22;
+    --border:     #21262d;
+    --border-hi:  #30363d;
+    --text:       #e6edf3;
+    --text-muted: #7d8590;
+    --text-dim:   #484f58;
+    --amber:      #d29922;
+    --amber-bg:   rgba(210,153,34,0.12);
+    --amber-hi:   #f0a000;
+    --green:      #3fb950;
+    --green-bg:   rgba(63,185,80,0.10);
+    --blue:       #388bfd;
+    --blue-bg:    rgba(56,139,253,0.10);
+    --red:        #f85149;
+    --red-bg:     rgba(248,81,73,0.10);
+    --radius:     6px;
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    font-family: 'IBM Plex Sans', sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    min-height: 100vh;
+    font-size: 14px;
+    line-height: 1.5;
+  }
+
+  /* ── HEADER ── */
+  header {
+    border-bottom: 1px solid var(--border);
+    padding: 16px 24px;
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    flex-wrap: wrap;
+    position: sticky;
+    top: 0;
+    background: rgba(13,17,23,0.95);
+    backdrop-filter: blur(8px);
+    z-index: 100;
+  }
+
+  .header-left {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    flex: 1;
+    min-width: 200px;
+  }
+
+  .logo-dot {
+    width: 10px; height: 10px;
+    background: var(--amber);
+    border-radius: 50%;
+    flex-shrink: 0;
+    box-shadow: 0 0 8px var(--amber);
+    animation: pulse 3s ease-in-out infinite;
+  }
+
+  @keyframes pulse {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.4; }
+  }
+
+  h1 {
+    font-size: 13px;
+    font-weight: 600;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    color: var(--text);
+  }
+
+  h1 span {
+    color: var(--text-muted);
+    font-weight: 400;
+  }
+
+  .header-controls {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    flex-wrap: wrap;
+  }
+
+  .date-group {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+  }
+
+  .date-group label {
+    font-size: 11px;
+    color: var(--text-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    font-weight: 500;
+    white-space: nowrap;
+  }
+
+  input[type="date"] {
+    background: var(--surface);
+    border: 1px solid var(--border-hi);
+    border-radius: var(--radius);
+    color: var(--text);
+    padding: 5px 8px;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 12px;
+    cursor: pointer;
+    outline: none;
+    color-scheme: dark;
+  }
+
+  input[type="date"]:focus {
+    border-color: var(--amber);
+  }
+
+  .btn {
+    background: var(--amber-bg);
+    border: 1px solid var(--amber);
+    color: var(--amber-hi);
+    padding: 5px 14px;
+    border-radius: var(--radius);
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-size: 12px;
+    font-weight: 600;
+    cursor: pointer;
+    letter-spacing: 0.03em;
+    transition: background 0.15s, color 0.15s;
+    white-space: nowrap;
+  }
+
+  .btn:hover {
+    background: var(--amber);
+    color: #000;
+  }
+
+  .btn-ghost {
+    background: transparent;
+    border: 1px solid var(--border-hi);
+    color: var(--text-muted);
+    padding: 5px 12px;
+    border-radius: var(--radius);
+    font-size: 12px;
+    font-weight: 500;
+    cursor: pointer;
+    font-family: 'IBM Plex Sans', sans-serif;
+    transition: border-color 0.15s, color 0.15s;
+  }
+
+  .btn-ghost:hover {
+    border-color: var(--text-muted);
+    color: var(--text);
+  }
+
+  /* ── TOOLBAR ── */
+  .toolbar {
+    padding: 12px 24px;
+    border-bottom: 1px solid var(--border);
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    flex-wrap: wrap;
+  }
+
+  .filter-input {
+    background: var(--surface);
+    border: 1px solid var(--border-hi);
+    border-radius: var(--radius);
+    color: var(--text);
+    padding: 6px 10px;
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-size: 13px;
+    outline: none;
+    width: 220px;
+    transition: border-color 0.15s;
+  }
+
+  .filter-input:focus { border-color: var(--blue); }
+  .filter-input::placeholder { color: var(--text-dim); }
+
+  .category-pills {
+    display: flex;
+    gap: 6px;
+    flex-wrap: wrap;
+  }
+
+  .pill {
+    padding: 4px 10px;
+    border-radius: 20px;
+    font-size: 11px;
+    font-weight: 600;
+    cursor: pointer;
+    border: 1px solid transparent;
+    letter-spacing: 0.03em;
+    transition: all 0.15s;
+  }
+
+  .pill.active { opacity: 1; }
+  .pill.inactive { opacity: 0.45; }
+
+  .pill-all    { background: rgba(125,133,144,0.15); border-color: var(--border-hi); color: var(--text-muted); }
+  .pill-major  { background: var(--red-bg); border-color: var(--red); color: var(--red); }
+  .pill-heritage { background: rgba(139,100,240,0.12); border-color: #8b64f0; color: #a78bfa; }
+  .pill-trees  { background: var(--green-bg); border-color: var(--green); color: var(--green); }
+  .pill-prior  { background: var(--blue-bg); border-color: var(--blue); color: var(--blue); }
+  .pill-other  { background: rgba(125,133,144,0.1); border-color: #484f58; color: var(--text-muted); }
+
+  .count-badge {
+    margin-left: auto;
+    font-size: 11px;
+    color: var(--text-dim);
+    font-family: 'IBM Plex Mono', monospace;
+  }
+
+  /* ── GRID ── */
+  .grid-container {
+    padding: 20px 24px;
+  }
+
+  .type-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+    gap: 10px;
+  }
+
+  .type-card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 14px 16px;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    transition: border-color 0.15s, background 0.15s;
+    animation: fadeIn 0.25s ease both;
+  }
+
+  @keyframes fadeIn {
+    from { opacity: 0; transform: translateY(4px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+
+  .type-card:hover {
+    border-color: var(--border-hi);
+    background: #1c2128;
+  }
+
+  .type-card.hidden { display: none; }
+
+  .card-top {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 8px;
+  }
+
+  .code-badge {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 13px;
+    font-weight: 600;
+    padding: 3px 8px;
+    border-radius: 4px;
+    letter-spacing: 0.05em;
+    flex-shrink: 0;
+  }
+
+  /* Category colours for badges */
+  .cat-major   .code-badge { background: var(--red-bg); color: var(--red); border: 1px solid rgba(248,81,73,0.3); }
+  .cat-heritage .code-badge { background: rgba(139,100,240,0.12); color: #a78bfa; border: 1px solid rgba(139,100,240,0.3); }
+  .cat-trees   .code-badge { background: var(--green-bg); color: var(--green); border: 1px solid rgba(63,185,80,0.3); }
+  .cat-prior   .code-badge { background: var(--blue-bg); color: var(--blue); border: 1px solid rgba(56,139,253,0.3); }
+  .cat-other   .code-badge { background: var(--amber-bg); color: var(--amber-hi); border: 1px solid rgba(210,153,34,0.3); }
+
+  .card-actions {
+    display: flex;
+    gap: 6px;
+    flex-shrink: 0;
+  }
+
+  .icon-btn {
+    width: 28px; height: 28px;
+    border-radius: 4px;
+    border: 1px solid var(--border-hi);
+    background: transparent;
+    color: var(--text-muted);
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 13px;
+    transition: all 0.15s;
+    flex-shrink: 0;
+  }
+
+  .icon-btn:hover {
+    background: var(--border);
+    color: var(--text);
+    border-color: var(--text-muted);
+  }
+
+  .icon-btn.copied {
+    background: var(--green-bg);
+    border-color: var(--green);
+    color: var(--green);
+  }
+
+  .card-name {
+    font-size: 13px;
+    font-weight: 500;
+    color: var(--text);
+    line-height: 1.35;
+  }
+
+  .card-desc {
+    font-size: 11px;
+    color: var(--text-muted);
+    line-height: 1.4;
+  }
+
+  .card-bottom {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 2px;
+  }
+
+  .cat-label {
+    font-size: 10px;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    font-weight: 600;
+    color: var(--text-dim);
+  }
+
+  .open-link {
+    font-size: 11px;
+    font-weight: 600;
+    color: var(--blue);
+    text-decoration: none;
+    letter-spacing: 0.02em;
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    padding: 3px 8px;
+    border-radius: 4px;
+    border: 1px solid rgba(56,139,253,0.25);
+    transition: all 0.15s;
+  }
+
+  .open-link:hover {
+    background: var(--blue-bg);
+    border-color: var(--blue);
+    color: #6cb6ff;
+  }
+
+  /* ── TOAST ── */
+  #toast {
+    position: fixed;
+    bottom: 24px;
+    right: 24px;
+    background: var(--surface);
+    border: 1px solid var(--green);
+    color: var(--green);
+    padding: 10px 16px;
+    border-radius: var(--radius);
+    font-size: 12px;
+    font-family: 'IBM Plex Mono', monospace;
+    opacity: 0;
+    transform: translateY(8px);
+    transition: all 0.2s ease;
+    pointer-events: none;
+    z-index: 999;
+  }
+
+  #toast.show {
+    opacity: 1;
+    transform: translateY(0);
+  }
+
+  /* ── EMPTY STATE ── */
+  .empty-state {
+    text-align: center;
+    padding: 48px 24px;
+    color: var(--text-dim);
+    font-size: 13px;
+    display: none;
+  }
+
+  .empty-state.visible { display: block; }
+
+  /* ── FOOTER ── */
+  footer {
+    border-top: 1px solid var(--border);
+    padding: 14px 24px;
+    font-size: 11px;
+    color: var(--text-dim);
+    display: flex;
+    gap: 16px;
+    flex-wrap: wrap;
+    align-items: center;
+  }
+
+  footer a {
+    color: var(--text-muted);
+    text-decoration: none;
+  }
+
+  footer a:hover { color: var(--text); }
+
+  @media (max-width: 600px) {
+    header { padding: 12px 16px; }
+    .toolbar { padding: 10px 16px; }
+    .grid-container { padding: 14px 16px; }
+    .filter-input { width: 100%; }
+    .type-grid { grid-template-columns: 1fr; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="header-left">
+    <div class="logo-dot"></div>
+    <h1>Flintshire Planning <span>/ Type Browser</span></h1>
+  </div>
+  <div class="header-controls">
+    <div class="date-group">
+      <label>From</label>
+      <input type="date" id="dateFrom" value="2025-01-01">
+    </div>
+    <div class="date-group">
+      <label>To</label>
+      <input type="date" id="dateTo">
+    </div>
+    <button class="btn" onclick="openAll()">Open All ↗</button>
+  </div>
+</header>
+
+<div class="toolbar">
+  <input class="filter-input" type="text" id="filterInput" placeholder="Filter by code or name…" oninput="applyFilter()">
+  <div class="category-pills">
+    <span class="pill pill-all active" data-cat="all" onclick="setCat(this)">All</span>
+    <span class="pill pill-major" data-cat="major" onclick="setCat(this)">Major / FUL</span>
+    <span class="pill pill-heritage" data-cat="heritage" onclick="setCat(this)">Heritage</span>
+    <span class="pill pill-trees" data-cat="trees" onclick="setCat(this)">Trees</span>
+    <span class="pill pill-prior" data-cat="prior" onclick="setCat(this)">Prior Approvals</span>
+    <span class="pill pill-other" data-cat="other" onclick="setCat(this)">Other</span>
+  </div>
+  <span class="count-badge" id="countBadge">35 types</span>
+</div>
+
+<div class="grid-container">
+  <div class="type-grid" id="grid"></div>
+  <div class="empty-state" id="emptyState">No types match your filter.</div>
+</div>
+
+<footer>
+  <span>Source: <a href="https://planning.agileapplications.co.uk/flintshire" target="_blank">Flintshire Planning Portal</a></span>
+  <span>Connected Deeside Newsroom — Planning Monitor</span>
+  <span id="urlNote" style="margin-left:auto; font-family:'IBM Plex Mono',monospace;"></span>
+</footer>
+
+<div id="toast">URL copied to clipboard</div>
+
+<script>
+const TYPES = [
+  { code:'FUL',  name:'Full Planning Application',         desc:'Building works, change of use, conversion, telecommunications', cat:'major' },
+  { code:'OUT',  name:'Outline Planning Application',       desc:'Permission in principle for larger developments',               cat:'major' },
+  { code:'RES',  name:'Reserved Matters',                   desc:'Following outline approval — details of appearance, layout etc', cat:'major' },
+  { code:'COU',  name:'Change of Use / Conversion',         desc:'Change of use class or building conversion',                   cat:'major' },
+  { code:'LBC',  name:'Listed Building Consent',            desc:'Extensions and alterations to listed buildings',               cat:'heritage' },
+  { code:'LBD',  name:'Listed Building Demolition',         desc:'Demolition of a listed building',                             cat:'heritage' },
+  { code:'ADV',  name:'Advertisement Consent',              desc:'Signage, hoardings and commercial displays',                  cat:'other' },
+  { code:'TPO',  name:'TPO Tree Works',                     desc:'Application to lop, top or fell a protected tree',            cat:'trees' },
+  { code:'TCA',  name:'Trees in Conservation Area',         desc:'Works to trees within a conservation area',                   cat:'trees' },
+  { code:'LDC',  name:'Lawful Development Certificate',     desc:'Certificate of lawfulness — S191 (existing) / S192 (proposed)',cat:'other' },
+  { code:'DET',  name:'Discharge of Conditions',            desc:'Approval of details / discharge of planning conditions',      cat:'other' },
+  { code:'CON',  name:'Conservation Area Demolition',       desc:'Demolition of unlisted building in conservation area',        cat:'heritage' },
+  { code:'CONS', name:'Conservation Area Demolition (alt)', desc:'Alternative prefix code for conservation demolition',         cat:'heritage' },
+  { code:'NMA',  name:'Non-Material Amendment',             desc:'Minor amendment to an approved planning permission',          cat:'other' },
+  { code:'VRC',  name:'Vary or Remove a Condition',         desc:'Application to vary or remove a planning condition',          cat:'other' },
+  { code:'AGN',  name:'Prior Approval – Agriculture',       desc:'Agricultural development requiring prior approval',           cat:'prior' },
+  { code:'APD',  name:'Prior Approval – Demolition',        desc:'Prior approval for demolition of a building',                cat:'prior' },
+  { code:'APF',  name:'Prior Approval – Forestry',          desc:'Prior approval for forestry buildings and roads',            cat:'prior' },
+  { code:'APT',  name:'Prior Approval – Telecommunications',desc:'Permitted development for masts and telecoms apparatus',     cat:'prior' },
+  { code:'APE',  name:'Prior Approval – Electricity',       desc:'Prior approval for electricity infrastructure',              cat:'prior' },
+  { code:'APM',  name:'Prior Approval – Minerals',          desc:'Prior approval for minerals development',                    cat:'prior' },
+  { code:'APS',  name:'Prior Approval – Statutory Undertaker',desc:'Prior approval for statutory undertaker development',     cat:'prior' },
+  { code:'REN',  name:'Renewal',                            desc:'Renewal of a time-limited planning permission',              cat:'other' },
+  { code:'HED',  name:'Hedgerow Removal',                   desc:'Hedgerow removal or regulation notification',                cat:'trees' },
+  { code:'SCM',  name:'Scheduled Monument Consent',         desc:'Works affecting a scheduled ancient monument',               cat:'heritage' },
+  { code:'HAZ',  name:'Hazardous Substances',               desc:'Consent to store or use hazardous substances',               cat:'other' },
+  { code:'MIN',  name:'Minerals Application',               desc:'Extraction or working of minerals',                          cat:'major' },
+  { code:'WAS',  name:'Waste Management',                   desc:'Waste management and treatment facilities',                  cat:'major' },
+  { code:'SCR',  name:'Screening Opinion',                  desc:'Environmental impact assessment screening',                  cat:'other' },
+  { code:'SCO',  name:'Scoping Opinion',                    desc:'Scope of an environmental impact assessment',               cat:'other' },
+  { code:'S106', name:'S106 Agreement Variation',           desc:'Variation of a Section 106 planning obligation',            cat:'other' },
+  { code:'DCO',  name:'Nationally Significant Infrastructure',desc:'Development of national significance / NSIP',             cat:'major' },
+  { code:'GOV',  name:'Government Application',             desc:'Crown or government department application',                 cat:'other' },
+  { code:'NEI',  name:'Neighbouring Authority Application', desc:'Application straddling an authority boundary',              cat:'other' },
+];
+
+let activeCat = 'all';
+let filterText = '';
+
+function getDateFrom() {
+  return document.getElementById('dateFrom').value || '2025-01-01';
+}
+
+function getDateTo() {
+  const d = document.getElementById('dateTo').value;
+  return d || new Date().toISOString().slice(0,10);
+}
+
+function buildCriteria(code) {
+  const from = getDateFrom() + 'T00:00:00+00:00';
+  const to   = getDateTo()   + 'T23:59:59+00:00';
+  const obj = {
+    query:                code.toLowerCase(),
+    registrationDateFrom: from,
+    registrationDateTo:   to
+  };
+  return encodeURIComponent(JSON.stringify(obj));
+}
+
+function buildURL(code) {
+  return `https://planning.agileapplications.co.uk/flintshire/search-applications/results?criteria=${buildCriteria(code)}&page=1`;
+}
+
+function renderGrid() {
+  const grid = document.getElementById('grid');
+  grid.innerHTML = '';
+  let visible = 0;
+
+  TYPES.forEach((t, i) => {
+    const catMatch  = activeCat === 'all' || t.cat === activeCat;
+    const textMatch = !filterText ||
+      t.code.toLowerCase().includes(filterText) ||
+      t.name.toLowerCase().includes(filterText) ||
+      t.desc.toLowerCase().includes(filterText);
+
+    const card = document.createElement('div');
+    card.className = `type-card cat-${t.cat}`;
+    card.style.animationDelay = `${(visible % 20) * 20}ms`;
+
+    if (!catMatch || !textMatch) {
+      card.classList.add('hidden');
+    } else {
+      visible++;
+    }
+
+    const url = buildURL(t.code);
+    const catLabels = { major:'Major', heritage:'Heritage', trees:'Trees', prior:'Prior Approval', other:'Other' };
+
+    card.innerHTML = `
+      <div class="card-top">
+        <span class="code-badge">${t.code}</span>
+        <div class="card-actions">
+          <button class="icon-btn" title="Copy URL" onclick="copyURL('${t.code}', this)">
+            <svg width="12" height="12" viewBox="0 0 16 16" fill="currentColor">
+              <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"/>
+              <path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"/>
+            </svg>
+          </button>
+        </div>
+      </div>
+      <div class="card-name">${t.name}</div>
+      ${t.desc ? `<div class="card-desc">${t.desc}</div>` : ''}
+      <div class="card-bottom">
+        <span class="cat-label">${catLabels[t.cat]}</span>
+        <a class="open-link" href="${url}" target="_blank" rel="noopener">
+          Search ↗
+        </a>
+      </div>
+    `;
+    grid.appendChild(card);
+  });
+
+  document.getElementById('countBadge').textContent =
+    `${visible} of ${TYPES.length} types`;
+  document.getElementById('emptyState').classList.toggle('visible', visible === 0);
+}
+
+function applyFilter() {
+  filterText = document.getElementById('filterInput').value.toLowerCase().trim();
+  renderGrid();
+}
+
+function setCat(el) {
+  activeCat = el.dataset.cat;
+  document.querySelectorAll('.pill').forEach(p => {
+    p.classList.toggle('active', p === el);
+    p.classList.toggle('inactive', p !== el);
+  });
+  renderGrid();
+}
+
+function copyURL(code, btn) {
+  const url = buildURL(code);
+  navigator.clipboard.writeText(url).then(() => {
+    btn.classList.add('copied');
+    showToast('URL copied — ' + code);
+    setTimeout(() => btn.classList.remove('copied'), 1500);
+  }).catch(() => {
+    prompt('Copy this URL:', url);
+  });
+}
+
+function openAll() {
+  const visible = document.querySelectorAll('.type-card:not(.hidden)');
+  if (visible.length > 5) {
+    if (!confirm(`Open ${visible.length} tabs? Your browser may block this.`)) return;
+  }
+  visible.forEach(card => {
+    const link = card.querySelector('.open-link');
+    if (link) window.open(link.href, '_blank');
+  });
+}
+
+function showToast(msg) {
+  const t = document.getElementById('toast');
+  t.textContent = msg;
+  t.classList.add('show');
+  setTimeout(() => t.classList.remove('show'), 2200);
+}
+
+// Set today's date as default for dateTo
+document.getElementById('dateTo').value = new Date().toISOString().slice(0, 10);
+
+// Re-render links when dates change
+document.getElementById('dateFrom').addEventListener('change', renderGrid);
+document.getElementById('dateTo').addEventListener('change', renderGrid);
+
+renderGrid();
+</script>
+</body>
+</html>
