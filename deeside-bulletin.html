@@ -286,6 +286,13 @@
       }
     }
 
+    // Hide the bulletin strip when embedded in WordPress template
+    var params = new URLSearchParams(window.location.search);
+    if (params.get("embed") === "true") {
+      var strip = document.querySelector(".bulletin-strip");
+      if (strip) strip.style.display = "none";
+    }
+
     loadBulletin();
 
     // Report height to parent so WordPress template can auto-resize the iframe
