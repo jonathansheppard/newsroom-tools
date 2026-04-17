@@ -287,6 +287,17 @@
     }
 
     loadBulletin();
+
+    // Report height to parent so WordPress template can auto-resize the iframe
+    function reportHeight() {
+      var h = document.body.scrollHeight;
+      if (window.parent && window.parent !== window) {
+        window.parent.postMessage({ type: "bulletin-height", height: h }, "*");
+      }
+    }
+    // Report after content loads and again after images settle
+    setTimeout(reportHeight, 800);
+    setTimeout(reportHeight, 2000);
   </script>
 </body>
 </html>
