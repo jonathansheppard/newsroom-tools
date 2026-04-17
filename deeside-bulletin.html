@@ -25,7 +25,7 @@
       -webkit-font-smoothing: antialiased;
     }
 
-    /* BULLETIN STRIP */
+    /* BULLETIN STRIP — hidden when ?embed=true */
     .bulletin-strip {
       background: var(--orange);
       padding: 8px 16px;
@@ -51,14 +51,12 @@
       font-variant-numeric: tabular-nums;
     }
 
-    /* FEED */
     .feed {
       max-width: 640px;
       margin: 0 auto;
       padding: 0 16px 40px;
     }
 
-    /* STORY */
     .story {
       padding: 20px 0;
       border-bottom: 1px solid var(--rule);
@@ -146,7 +144,6 @@
     .story-link:hover svg { transform: translateX(2px); }
     .story-link svg { width: 11px; height: 11px; transition: transform 0.15s ease; }
 
-    /* STATES */
     .loading { padding: 36px 16px; text-align: center; }
 
     .loading-dot {
@@ -166,16 +163,9 @@
       40%           { transform: scale(1);   opacity: 1;   }
     }
 
-    .message-state {
-      padding: 28px 16px;
-      font-size: 14px;
-      color: var(--mid);
-      line-height: 1.6;
-    }
-
+    .message-state { padding: 28px 16px; font-size: 14px; color: var(--mid); line-height: 1.6; }
     .message-state a { color: var(--orange); }
 
-    /* FOOTER */
     .bulletin-footer {
       padding: 16px 16px 32px;
       max-width: 640px;
@@ -199,7 +189,7 @@
 </head>
 <body>
 
-  <div class="bulletin-strip">
+  <div class="bulletin-strip" id="bulletin-strip">
     <span class="bulletin-label">Bulletin:</span>
     <span class="bulletin-datetime" id="bulletin-datetime"></span>
   </div>
@@ -217,20 +207,25 @@
   </footer>
 
   <script>
-    // Reads from n8n-maintained cache on GitHub. n8n fetches from WordPress
-    // every 15 minutes and commits bulletin.json to this repo.
-    const CACHE_URL = 'https://raw.githubusercontent.com/jonathansheppard/newsroom-tools/main/bulletin.json';
+    var CACHE_URL = 'https://raw.githubusercontent.com/jonathansheppard/newsroom-tools/main/bulletin.json';
+
+    // Hide strip when embedded in WordPress template
+    var params = new URLSearchParams(window.location.search);
+    if (params.get('embed') === 'true') {
+      document.getElementById('bulletin-strip').style.display = 'none';
+    }
 
     function setDatetime() {
       var now  = new Date();
       var date = now.toLocaleDateString('en-GB', { weekday: 'short', day: 'numeric', month: 'short', year: 'numeric' });
       var time = now.toLocaleTimeString('en-GB', { hour: '2-digit', minute: '2-digit' });
-      document.getElementById('bulletin-datetime').textContent = date + ' \u00b7 ' + time;
+      var el   = document.getElementById('bulletin-datetime');
+      if (el) el.textContent = date + ' \u00b7 ' + time;
     }
 
     function relativeTime(dateStr) {
       var now      = new Date();
-      var date     = new Date(dateStr + 'Z');
+      var date     = new Date(dateStr.replace(' +0000','Z').replace(' +0100','Z'));
       var diffMs   = now - date;
       var diffMins = Math.floor(diffMs / 60000);
       var diffHrs  = Math.floor(diffMins / 60);
@@ -262,49 +257,35 @@
         + '</div></div></article>';
     }
 
+    function reportHeight() {
+      if (window.parent && window.parent !== window) {
+        window.parent.postMessage({ type: 'bulletin-height', height: document.body.scrollHeight }, '*');
+      }
+    }
+
     async function loadBulletin() {
       setDatetime();
       try {
-        // Cache-bust with timestamp so GitHub's CDN doesn't serve stale JSON
-        var res  = await fetch(CACHE_URL + '?t=' + Date.now());
+        var res   = await fetch(CACHE_URL + '?t=' + Date.now());
         if (!res.ok) throw new Error(res.status);
-        var data = await res.json();
-
+        var data  = await res.json();
         var stories = data.stories || [];
 
         if (stories.length === 0) {
           document.getElementById('feed').innerHTML = '<div class="message-state">No bulletin stories today. <a href="https://www.deeside.com" target="_parent">Browse all local news \u2192</a></div>';
-          return;
+        } else {
+          document.getElementById('feed').innerHTML = stories.map(renderStory).join('');
+          document.getElementById('bulletin-footer').style.display = 'flex';
         }
-
-        document.getElementById('feed').innerHTML = stories.map(renderStory).join('');
-        document.getElementById('bulletin-footer').style.display = 'flex';
-
       } catch(err) {
         console.error('Bulletin fetch error:', err);
         document.getElementById('feed').innerHTML = '<div class="message-state">Unable to load today\'s bulletin. <a href="https://www.deeside.com" target="_parent">Visit Deeside.com \u2192</a></div>';
       }
-    }
-
-    // Hide the bulletin strip when embedded in WordPress template
-    var params = new URLSearchParams(window.location.search);
-    if (params.get("embed") === "true") {
-      var strip = document.querySelector(".bulletin-strip");
-      if (strip) strip.style.display = "none";
+      setTimeout(reportHeight, 600);
+      setTimeout(reportHeight, 1800);
     }
 
     loadBulletin();
-
-    // Report height to parent so WordPress template can auto-resize the iframe
-    function reportHeight() {
-      var h = document.body.scrollHeight;
-      if (window.parent && window.parent !== window) {
-        window.parent.postMessage({ type: "bulletin-height", height: h }, "*");
-      }
-    }
-    // Report after content loads and again after images settle
-    setTimeout(reportHeight, 800);
-    setTimeout(reportHeight, 2000);
   </script>
 </body>
 </html>
