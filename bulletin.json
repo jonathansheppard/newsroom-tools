@@ -1,6 +1,13 @@
 {
-  "updated": "2026-04-23T16:30:46.576Z",
+  "updated": "2026-04-23T16:45:46.055Z",
   "stories": [
+    {
+      "title": "Nearly one in five North Wales A&E patients waited 12 hours or more in March",
+      "url": "https://www.deeside.com/nearly-one-in-five-north-wales-ae-patients-waited-12-hours-or-more-in-march/",
+      "date": "Thu, 23 Apr 2026 16:36:45 +0000",
+      "summary": "Betsi Cadwaladr University Health Board recorded the worst A&#38;E performance of any Welsh health board in March 2026 for the third month running, new Welsh Government statistics show. 51.9% of patients at a BCUHB emergency department were admitted, transferred or discharged within the four-hour target in March, compared with 75.1% at Hywel Dda, the best-performing",
+      "tag": "News"
+    },
     {
       "title": "Sunday Gathering artisan market returns to Mold town centre on 26 April",
       "url": "https://www.deeside.com/sunday-gathering-artisan-market-returns-to-mold-town-centre-on-26-april/",
@@ -27,13 +34,6 @@
       "url": "https://www.deeside.com/jobs-north-wales-posts-biggest-regional-fall-as-flintshire-employment-ranking-drops/",
       "date": "Wed, 22 Apr 2026 21:54:24 +0000",
       "summary": "Flintshire has dropped out of the top three Welsh local authorities for employment rate in new Welsh Government figures published on 22 April 2026. In the latest Annual Population Survey figures covering the year ending 31 December 2025, the highest employment rates in Wales were in Newport at 76.9%, Monmouthshire at 76.8% and Pembrokeshire at",
-      "tag": "News"
-    },
-    {
-      "title": "Fewer patients seen by NHS dentists in north Wales as Welsh rate stays flat",
-      "url": "https://www.deeside.com/fewer-patients-seen-by-nhs-dentists-in-north-wales-as-welsh-rate-stays-flat/",
-      "date": "Wed, 22 Apr 2026 20:18:40 +0000",
-      "summary": "The number of patients treated by NHS dentists in north Wales fell in each of the last three quarters, according to new Welsh Government figures published on 22 April 2026. Betsi Cadwaladr University Health Board had 233,622 patients treated in the 24-month period ending 31 December 2025. That is down from 236,950 in the 24-month",
       "tag": "News"
     }
   ]
