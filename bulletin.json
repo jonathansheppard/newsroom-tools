@@ -1,6 +1,13 @@
 {
-  "updated": "2026-04-24T14:30:47.289Z",
+  "updated": "2026-04-24T14:45:46.162Z",
   "stories": [
+    {
+      "title": "Shotton residents say waste dump is blocking emergency vehicle access to Health Street",
+      "url": "https://www.deeside.com/shotton-residents-say-waste-dump-is-blocking-emergency-vehicle-access-to-health-street/",
+      "date": "Fri, 24 Apr 2026 14:38:46 +0000",
+      "summary": "Residents say an unlicensed waste dump is blocking emergency access to a narrow street in Shotton. An access road that leads to the rear of properties on Health Street in Shotton has been fenced off and rubble and waste dumped inside it. People living on the narrow residential street just off Rowleys Drive have challenged",
+      "tag": "News"
+    },
     {
       "title": "Saltney High Street salon burglary: man charged with seven offences",
       "url": "https://www.deeside.com/saltney-high-street-salon-burglary-man-charged-with-seven-offences/",
@@ -28,13 +35,6 @@
       "date": "Thu, 23 Apr 2026 21:13:22 +0000",
       "summary": "As the Senedd Elections approach on May 7 the new proportional representation voting system means there are a larger number of candidates than ever. Fflint Wrecsam constituency will have six Members of the Senedd selected, based on the proportion of the vote their party receives. Parties have been listed in alphabetical order and candidates are",
       "tag": "Senedd26"
-    },
-    {
-      "title": "Nearly one in five North Wales A&E patients waited 12 hours or more in March",
-      "url": "https://www.deeside.com/nearly-one-in-five-north-wales-ae-patients-waited-12-hours-or-more-in-march/",
-      "date": "Thu, 23 Apr 2026 16:36:45 +0000",
-      "summary": "Betsi Cadwaladr University Health Board recorded the worst A&#38;E performance of any Welsh health board in March 2026 for the third month running, new Welsh Government statistics show. 51.9% of patients at a BCUHB emergency department were admitted, transferred or discharged within the four-hour target in March, compared with 75.1% at Hywel Dda, the best-performing",
-      "tag": "News"
     }
   ]
 }
