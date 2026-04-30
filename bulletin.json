@@ -1,6 +1,13 @@
 {
-  "updated": "2026-04-30T14:15:46.580Z",
+  "updated": "2026-04-30T14:30:48.528Z",
   "stories": [
+    {
+      "title": "Met Office forecasts mixed weather for May Bank Holiday in north Wales",
+      "url": "https://www.deeside.com/met-office-forecasts-mixed-weather-for-may-bank-holiday-in-north-wales/",
+      "date": "Thu, 30 Apr 2026 14:24:41 +0000",
+      "summary": "The Bank Holiday weekend is shaping up to be a wet one across Flintshire, with forecasts of drizzle on Saturday, rain through Sunday and a cool, cloudy Bank Holiday Monday. Daytime temperatures at Hawarden are forecast to drop from 19C on Friday to 17C on Saturday and 14C on Sunday and Monday, with overnight lows",
+      "tag": "News"
+    },
     {
       "title": "Heritage groups withdraw objections to revised Soughton Hall extension plans",
       "url": "https://www.deeside.com/heritage-groups-withdraw-objections-to-revised-soughton-hall-extension-plans/",
@@ -27,13 +34,6 @@
       "url": "https://www.deeside.com/two-thirds-of-welsh-residents-back-better-access-to-countryside-poll-finds/",
       "date": "Wed, 29 Apr 2026 21:26:29 +0000",
       "summary": "Two thirds of Welsh residents support improving access to the countryside, according to a YouGov poll commissioned by Cycling UK. The survey found 67% in favour across Wales, with support in North Wales at 68%. Only 5% of those polled said they opposed the idea, and opposition did not exceed 10% in any demographic group",
-      "tag": "News"
-    },
-    {
-      "title": "Annual archaeological excavation under way at Grosvenor Park in Chester",
-      "url": "https://www.deeside.com/annual-archaeological-excavation-under-way-at-grosvenor-park-in-chester/",
-      "date": "Wed, 29 Apr 2026 21:21:09 +0000",
-      "summary": "The annual archaeological excavation at Chester’s Grosvenor Park is under way, with 28 University of Chester students digging for evidence of Roman-era buildings. The four-week dig started on Monday and runs until Friday 22 May. It is a joint project between Cheshire West and Chester Council, West Cheshire Museums, and the University of Chester’s School",
       "tag": "News"
     }
   ]
