@@ -1,6 +1,20 @@
 {
-  "updated": "2026-06-06T22:01:06.623Z",
+  "updated": "2026-06-06T22:16:07.530Z",
   "stories": [
+    {
+      "title": "Flintshire assistant headteacher wins national apprenticeship award",
+      "url": "https://www.deeside.com/flintshire-assistant-headteacher-wins-national-apprenticeship-award/",
+      "date": "Sat, 06 Jun 2026 22:13:23 +0000",
+      "summary": "A Flintshire assistant headteacher has won a national apprenticeship award after completing a leadership qualification while continuing to work across two school sites. Samantha Stenhoff, Assistant Headteacher at Ysgol Pen Coch, was named Higher Apprentice of the Year at the Cambrian Training Apprenticeship, Employment and Skills Awards on 2 June. Ysgol Pen Coch is a",
+      "tag": "News"
+    },
+    {
+      "title": "North Wales Police warns of rise in deepfake and voice-cloning scams",
+      "url": "https://www.deeside.com/north-wales-police-warns-of-rise-in-deepfake-and-voice-cloning-scams/",
+      "date": "Sat, 06 Jun 2026 22:12:04 +0000",
+      "summary": "North Wales Police has issued a warning over a rise in scams using artificial intelligence to impersonate employers, bank staff and family members. The force’s cyber crime team says criminals are using voice-cloning and deepfake video technology to make fraudulent requests appear genuine. Targets may receive an urgent phone call or a fake video meeting",
+      "tag": "News"
+    },
     {
       "title": "Hawkesbury Little Theatre in Buckley warns of closure without urgent roof repairs",
       "url": "https://www.deeside.com/hawkesbury-little-theatre-in-buckley-warns-of-closure-without-urgent-roof-repairs/",
@@ -20,20 +34,6 @@
       "url": "https://www.deeside.com/planning-appeal-for-new-home-near-hope-dismissed-despite-family-care-argument/",
       "date": "Sat, 06 Jun 2026 16:55:51 +0000",
       "summary": "A planning appeal to build a new three-bedroom bungalow in the garden of a house near Hope has been dismissed, despite arguments that the dwelling was needed to care for a vulnerable family member with serious health conditions. The applicant sought to build the single-storey detached house in the grounds of Haledon House on Gresford",
-      "tag": "News"
-    },
-    {
-      "title": "North Wales Police launch road safety campaign to reduce motorcycle-related deaths",
-      "url": "https://www.deeside.com/north-wales-police-launch-road-safety-campaign-to-reduce-motorcycle-related-deaths/",
-      "date": "Sat, 06 Jun 2026 16:49:03 +0000",
-      "summary": "A dedicated road safety campaign, aimed at improving motorcyclist safety and reducing motorcycle-related deaths and injuries on the roads of North Wales is underway. Last year 12 motorcyclists and pillion passenger were killed in north Wales, compared to six in 2024. There was also a 38.% increase in serious motorcycle casualties. Operation Apex runs from",
-      "tag": "News"
-    },
-    {
-      "title": "North Wales Police warn of rise in AI-powered scam messages targeting public",
-      "url": "https://www.deeside.com/north-wales-police-warn-of-rise-in-ai-powered-scam-messages-targeting-public/",
-      "date": "Fri, 05 Jun 2026 21:58:27 +0000",
-      "summary": "North Wales Police are warning residents to be on their guard after an increase in highly convincing phishing scams across the region. Criminals are using artificial intelligence to create realistic-looking messages that appear to come from trusted organisations including banks, HMRC, the NHS and delivery companies. Unlike older scam messages, the fake communications often use",
       "tag": "News"
     }
   ]
