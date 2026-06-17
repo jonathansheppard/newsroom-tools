@@ -1,6 +1,13 @@
 {
-  "updated": "2026-06-17T11:46:07.997Z",
+  "updated": "2026-06-17T12:01:08.899Z",
   "stories": [
+    {
+      "title": "Met Office forecast points to heatwave for Flintshire",
+      "url": "https://www.deeside.com/met-office-forecast-points-to-heatwave-for-flintshire/",
+      "date": "Wed, 17 Jun 2026 11:49:02 +0000",
+      "summary": "Temperatures in Deeside are set to climb through the weekend and into next week, reaching a forecast 27°C on Monday. On current figures, that warm spell could be enough to meet heatwave criteria for the area. The Met Office is forecasting 25°C on Sunday, 27°C on Monday and 25°C on Tuesday for the area. In",
+      "tag": "News"
+    },
     {
       "title": "HyNet pipeline works bring increased traffic to Northop Hall as project team holds Ewloe drop-in tonight",
       "url": "https://www.deeside.com/hynet-pipeline-works-bring-increased-traffic-to-northop-hall-as-project-team-holds-ewloe-drop-in-tonight/",
@@ -27,13 +34,6 @@
       "url": "https://www.deeside.com/health-board-apologises-as-glan-clwyd-ae-returns-to-service-requiring-significant-improvement/",
       "date": "Wed, 17 Jun 2026 09:44:06 +0000",
       "summary": "The emergency department at Ysbyty Glan Clwyd has been placed back under a formal improvement designation, less than two years after a previous round of the same scrutiny ended. Healthcare Inspectorate Wales, the body that checks the quality of healthcare across Wales, has designated the department a Service Requiring Significant Improvement. The designation is the",
-      "tag": "News"
-    },
-    {
-      "title": "North Wales MS demands action on ambulance handover delays",
-      "url": "https://www.deeside.com/north-wales-ms-demands-action-on-ambulance-handover-delays/",
-      "date": "Tue, 16 Jun 2026 22:18:24 +0000",
-      "summary": "Emergency category 1 ambulance response times in the Betsi Cadwaladr University Health Board area are facing severe delays, the Senedd has been told, with one North Wales MS citing a freedom of information request showing 2,149 people were declared life extinct while in an ambulance over a two-year period. Janet Finch-Saunders MS (Welsh Conservative, Bangor",
       "tag": "News"
     }
   ]
