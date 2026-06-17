@@ -1,11 +1,18 @@
 {
-  "updated": "2026-06-17T23:16:09.240Z",
+  "updated": "2026-06-17T23:31:08.880Z",
   "stories": [
     {
       "title": "Wales survey: one in two ten and eleven year olds on social media each week",
       "url": "https://www.deeside.com/wales-survey-one-in-two-ten-and-eleven-year-olds-on-social-media-each-week/",
-      "date": "Wed, 17 Jun 2026 23:07:43 +0000",
+      "date": "Wed, 17 Jun 2026 23:18:43 +0000",
       "summary": "Half of ten and eleven year olds in Wales are using social media regularly, according to the largest survey of primary school children’s health and wellbeing ever carried out in the country. The data, published by Public Health Wales and drawn from the Schools Health Research Network survey conducted by Cardiff University, found that 53.3",
+      "tag": "News"
+    },
+    {
+      "title": "Failed sand equipment and excess speed caused fatal mid Wales train collision, investigators find",
+      "url": "https://www.deeside.com/failed-sand-equipment-and-excess-speed-caused-fatal-mid-wales-train-collision-investigators-find/",
+      "date": "Wed, 17 Jun 2026 23:17:41 +0000",
+      "summary": "dispensing equipment and excessive approach speed, according to a report published this week by the Rail Accident Investigation Branch. One passenger died and at least four people were seriously injured when the two trains met head-on near Talerddig in Powys on the evening of 21 October 2024. The Rail Accident Investigation Branch (RAIB) has now",
       "tag": "News"
     },
     {
@@ -27,13 +34,6 @@
       "url": "https://www.deeside.com/met-office-forecast-points-to-heatwave-for-flintshire/",
       "date": "Wed, 17 Jun 2026 11:49:02 +0000",
       "summary": "Temperatures in Deeside are set to climb through the weekend and into next week, reaching a forecast 27°C on Monday. On current figures, that warm spell could be enough to meet heatwave criteria for the area. The Met Office is forecasting 25°C on Sunday, 27°C on Monday and 25°C on Tuesday for the area. In",
-      "tag": "News"
-    },
-    {
-      "title": "HyNet pipeline works bring increased traffic to Northop Hall as project team holds Ewloe drop-in tonight",
-      "url": "https://www.deeside.com/hynet-pipeline-works-bring-increased-traffic-to-northop-hall-as-project-team-holds-ewloe-drop-in-tonight/",
-      "date": "Wed, 17 Jun 2026 11:05:44 +0000",
-      "summary": "The HyNet carbon capture pipeline team will be in Ewloe this evening for a public drop-in, as site preparation work gets under way at Northop Hall for one of the key installations on the route through Flintshire. Liverpool Bay CCS Limited is hosting the event at Ewloe Sports and Social Club, Mold Road, Deeside, CH5",
       "tag": "News"
     }
   ]
