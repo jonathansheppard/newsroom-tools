@@ -1,6 +1,13 @@
 {
-  "updated": "2026-07-06T22:15:59.103Z",
+  "updated": "2026-07-06T22:30:57.674Z",
   "stories": [
+    {
+      "title": "North Wales Police warns of fake bank call and WhatsApp scam",
+      "url": "https://www.deeside.com/north-wales-police-warns-of-fake-bank-call-and-whatsapp-scam/",
+      "date": "Mon, 06 Jul 2026 22:17:20 +0000",
+      "summary": "North Wales Police has warned people not to share bank details after a scam involving fake fraud calls followed by WhatsApp messages. The force’s Cyber Crime Team said fraudsters are phoning victims claiming to be from their bank’s fraud team. Callers can make their number appear genuine through a technique known as caller ID spoofing,",
+      "tag": "News"
+    },
     {
       "title": "North Wales force’s handling of rural crime and emergency calls examined by PCC",
       "url": "https://www.deeside.com/north-wales-forces-handling-of-rural-crime-and-emergency-calls-examined-by-pcc/",
@@ -27,13 +34,6 @@
       "url": "https://www.deeside.com/flintshire-council-committee-set-to-consider-pentre-moch-name-change-for-northop-hall/",
       "date": "Mon, 06 Jul 2026 13:37:26 +0000",
       "summary": "A Flintshire village could soon adopt the historical Welsh name Pentre Moch – or Pig Holding. The request to formally move Pentre Moch as the formal Welsh name for Northop Hall will be considered by Flintshire County Council’s Corporate Resources Overview and Scrutiny Committee on Thursday. It will then make recommendations to the council’s Cabinet",
-      "tag": "News"
-    },
-    {
-      "title": "Flintshire forecast to hit 30C as third heatwave of the year builds",
-      "url": "https://www.deeside.com/flintshire-forecast-to-hit-30c-as-third-heatwave-of-the-year-builds/",
-      "date": "Mon, 06 Jul 2026 11:53:59 +0000",
-      "summary": "Flintshire is forecast to hit 30C this week, as the third heatwave of the year builds across the UK. The latest forecast for Hawarden shows temperatures climbing from 24C on Monday to a peak of 30C on Friday, before easing back to 27C over the weekend. Tuesday’s high in the county is forecast at 23C,",
       "tag": "News"
     }
   ]
