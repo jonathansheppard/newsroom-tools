@@ -1,11 +1,18 @@
 {
-  "updated": "2026-07-24T09:30:57.956Z",
+  "updated": "2026-07-24T09:45:59.234Z",
   "stories": [
     {
       "title": "Flintshire: 44-tonne lorry recorded at 85mph during police speed checks on A55",
       "url": "https://www.deeside.com/flintshire-44-tonne-lorry-recorded-at-85mph-during-police-speed-checks-on-a55/",
       "date": "Fri, 24 Jul 2026 09:25:12 +0000",
       "summary": "A 44-tonne articulated lorry was recorded travelling at 85mph on the A55 at Broughton during police speed checks on Thursday afternoon. Officers from North Wales Police’s Roads Policing Unit stopped the vehicle during speed enforcement activity. Further checks found offences relating to the driver’s tachograph, the device fitted to lorries that records driving hours, speed",
+      "tag": "News"
+    },
+    {
+      "title": "Manchester Airport drop-off now second priciest in UK per minute, RAC finds",
+      "url": "https://www.deeside.com/manchester-airport-drop-off-now-second-priciest-in-uk-per-minute-rac-finds/",
+      "date": "Fri, 24 Jul 2026 05:39:25 +0000",
+      "summary": "Dropping someone off at Manchester Airport now works out at £1.10 a minute, making it the second most expensive airport in the UK on a per-minute basis, according to new RAC analysis. The airport charges £5.50 for five minutes in its drop-off zone, with only London City costing more per minute. Liverpool John Lennon Airport,",
       "tag": "News"
     },
     {
@@ -27,13 +34,6 @@
       "url": "https://www.deeside.com/welsh-nhs-waiting-list-rises-after-ten-months-of-falls-with-ae-at-record-low/",
       "date": "Thu, 23 Jul 2026 21:53:08 +0000",
       "summary": "The NHS Wales waiting list is rising again after ten consecutive months of falls, with A&#38;E performance at a record low and the two worst emergency departments in Wales both in north Wales. Just over 689,700 patient pathways were waiting to start treatment at the end of May, up around 9,700 on April, according to",
-      "tag": "News"
-    },
-    {
-      "title": "Driver caught on phone in Flintshire had no licence, insurance or MOT",
-      "url": "https://www.deeside.com/driver-caught-on-phone-in-flintshire-had-no-licence-insurance-or-mot/",
-      "date": "Thu, 23 Jul 2026 14:29:43 +0000",
-      "summary": "A van has been seized in Flintshire after its driver was spotted using a mobile phone at the wheel, with checks then finding he had no valid licence, insurance or MOT. An officer from the South Flintshire policing team, stopped the vehicle after the driver was seen using his phone while driving. Further checks found",
       "tag": "News"
     }
   ]
