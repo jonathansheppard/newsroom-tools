@@ -1,6 +1,13 @@
 {
-  "updated": "2026-07-24T09:15:59.279Z",
+  "updated": "2026-07-24T09:30:57.956Z",
   "stories": [
+    {
+      "title": "Flintshire: 44-tonne lorry recorded at 85mph during police speed checks on A55",
+      "url": "https://www.deeside.com/flintshire-44-tonne-lorry-recorded-at-85mph-during-police-speed-checks-on-a55/",
+      "date": "Fri, 24 Jul 2026 09:25:12 +0000",
+      "summary": "A 44-tonne articulated lorry was recorded travelling at 85mph on the A55 at Broughton during police speed checks on Thursday afternoon. Officers from North Wales Police’s Roads Policing Unit stopped the vehicle during speed enforcement activity. Further checks found offences relating to the driver’s tachograph, the device fitted to lorries that records driving hours, speed",
+      "tag": "News"
+    },
     {
       "title": "Shoplifting in Flintshire rose 16% last year as offences fell across Wales",
       "url": "https://www.deeside.com/shoplifting-in-flintshire-rose-16-last-year-as-offences-fell-across-wales/",
@@ -27,13 +34,6 @@
       "url": "https://www.deeside.com/driver-caught-on-phone-in-flintshire-had-no-licence-insurance-or-mot/",
       "date": "Thu, 23 Jul 2026 14:29:43 +0000",
       "summary": "A van has been seized in Flintshire after its driver was spotted using a mobile phone at the wheel, with checks then finding he had no valid licence, insurance or MOT. An officer from the South Flintshire policing team, stopped the vehicle after the driver was seen using his phone while driving. Further checks found",
-      "tag": "News"
-    },
-    {
-      "title": "Drought status declared for North Wales after wildfires and record-low river flows",
-      "url": "https://www.deeside.com/drought-status-declared-for-north-wales-after-wildfires-and-record-low-river-flows/",
-      "date": "Thu, 23 Jul 2026 13:59:03 +0000",
-      "summary": "Drought has been declared across North Wales, including the river catchments covering Flintshire, after widespread wildfires, record-low river flows and weeks of hot, dry weather. Natural Resources Wales (NRW) confirmed the declaration today, Wednesday 23 July. It covers North Gwynedd, Ynys Môn, South Gwynedd, the Dee (Wales), Clwyd and the Upper Severn. A catchment is",
       "tag": "News"
     }
   ]
