@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-26T18:00:57.621Z",
+  "updated": "2026-07-26T18:15:59.219Z",
   "stories": [
     {
       "title": "North Wales Police warns renters over adverts for properties that do not exist",
@@ -16,6 +16,13 @@
       "tag": "News"
     },
     {
+      "title": "AI skills gap in the spotlight as Coleg Cambria launches business programme",
+      "url": "https://www.deeside.com/ai-skills-gap-in-the-spotlight-as-coleg-cambria-launches-business-programme/",
+      "date": "Sun, 26 Jul 2026 17:07:53 +0000",
+      "summary": "Coleg Cambria has launched a Generative AI Essentials programme to help businesses across the region understand and apply artificial intelligence in the workplace. Nearly two-thirds of UK organisations now use AI, yet a lack of expertise remains the single biggest barrier to adoption, cited by 35% of businesses. Further education colleges like Cambria are increasingly",
+      "tag": "News"
+    },
+    {
       "title": "Buckley dog waste bin campaign a success for councillor",
       "url": "https://www.deeside.com/buckley-dog-waste-bin-campaign-a-success-for-councillor/",
       "date": "Sat, 25 Jul 2026 22:05:01 +0000",
@@ -27,13 +34,6 @@
       "url": "https://www.deeside.com/connahs-quay-swimmer-rhys-darbey-wins-commonwealth-games-bronze-in-glasgow/",
       "date": "Sat, 25 Jul 2026 21:34:20 +0000",
       "summary": "Connah’s Quay swimmer Rhys Darbey has won a Commonwealth Games bronze medal in Glasgow after the team-mate who beat him to third place was disqualified. The 19-year-old touched fourth in the men’s S14 200m freestyle final on Saturday evening in a time of 1:56.24. Fellow Welsh para-swimmer Dylan Broom, who finished ahead of him, was",
-      "tag": "News"
-    },
-    {
-      "title": "Asda and Food and Drink Wales launch supplier training programme",
-      "url": "https://www.deeside.com/asda-and-food-and-drink-wales-launch-supplier-training-programme/",
-      "date": "Sat, 25 Jul 2026 21:02:09 +0000",
-      "summary": "Asda is to run a training programme for more than 30 Welsh food and drink suppliers alongside Food and Drink Wales, the Welsh Government’s food and drink division. The scheme was announced at the Royal Welsh Show, which ran from 20 to 23 July at Llanelwedd near Builth Wells. It will run over three days",
       "tag": "News"
     }
   ]
