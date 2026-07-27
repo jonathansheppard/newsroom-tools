@@ -1,6 +1,13 @@
 {
-  "updated": "2026-07-27T09:15:59.120Z",
+  "updated": "2026-07-27T09:30:57.790Z",
   "stories": [
+    {
+      "title": "Man airlifted from Mostyn Docks after coastguard rescue",
+      "url": "https://www.deeside.com/man-airlifted-from-mostyn-docks-after-coastguard-rescue/",
+      "date": "Mon, 27 Jul 2026 09:19:51 +0000",
+      "summary": "An injured casualty was airlifted from Mostyn Docks on Sunday afternoon after coastguard teams decided a helicopter was the safest way to get them off the site. Flint Coastguard Rescue Team led the response and was joined by the Llandudno team. Crews treated the casualty at the scene before calling in the coastguard helicopter Rescue",
+      "tag": "News"
+    },
     {
       "title": "Mold pupils win £150 for recycled sculpture of town’s Spring Clean mascot",
       "url": "https://www.deeside.com/mold-pupils-win-150-for-recycled-sculpture-of-towns-spring-clean-mascot/",
@@ -27,13 +34,6 @@
       "url": "https://www.deeside.com/chester-man-takes-over-as-general-manager-of-llandudnos-imperial-hotel/",
       "date": "Sun, 26 Jul 2026 17:57:20 +0000",
       "summary": "One of Wales’ best-known hotels is blending more than 150 years of heritage with a fresh culinary direction as it invites locals and visitors alike to rediscover one of Llandudno’s most iconic destinations. The Imperial Hotel – which has welcomed generations of families, holidaymakers and returning guests to the promenade in the ‘Queen of the",
-      "tag": "News"
-    },
-    {
-      "title": "AI skills gap in the spotlight as Coleg Cambria launches business programme",
-      "url": "https://www.deeside.com/ai-skills-gap-in-the-spotlight-as-coleg-cambria-launches-business-programme/",
-      "date": "Sun, 26 Jul 2026 17:07:53 +0000",
-      "summary": "Coleg Cambria has launched a Generative AI Essentials programme to help businesses across the region understand and apply artificial intelligence in the workplace. Nearly two-thirds of UK organisations now use AI, yet a lack of expertise remains the single biggest barrier to adoption, cited by 35% of businesses. Further education colleges like Cambria are increasingly",
       "tag": "News"
     }
   ]
