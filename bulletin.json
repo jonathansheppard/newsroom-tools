@@ -1,11 +1,18 @@
 {
-  "updated": "2026-07-30T15:15:59.184Z",
+  "updated": "2026-07-30T15:30:57.956Z",
   "stories": [
     {
       "title": "Drought status declared across Wales as hot weather and lack of rain takes its toll",
       "url": "https://www.deeside.com/drought-status-declared-across-wales-as-hot-weather-and-lack-of-rain-takes-its-toll/",
-      "date": "Thu, 30 Jul 2026 15:08:56 +0000",
+      "date": "Thu, 30 Jul 2026 15:28:56 +0000",
       "summary": "Drought status has been declared across Wales following a sustained period of high temperatures and a lack of rainfall. Natural Resources Wales (NRW) said today that conditions across Wales’ natural environment had continued to deteriorate, with some groundwater levels lower than expected for this time of year. This follows the announcement last week, where north",
+      "tag": "News"
+    },
+    {
+      "title": "UEFA and its members, including Wales, agree not to enter FIFA tournaments while World Cup sell-off plan remains",
+      "url": "https://www.deeside.com/uefa-and-its-members-including-wales-agree-not-to-enter-fifa-tournaments-while-world-cup-sell-off-plan-remains/",
+      "date": "Thu, 30 Jul 2026 15:24:21 +0000",
+      "summary": "Wales is one of 55 European football associations that have agreed not to take part in FIFA competitions while plans to sell stakes in the World Cup to private investors remain on the table. UEFA announced the decision on Thursday afternoon after an emergency virtual meeting of all its member associations, including the Football Association",
       "tag": "News"
     },
     {
@@ -27,13 +34,6 @@
       "url": "https://www.deeside.com/603-people-moved-to-flintshire-from-outside-the-uk-and-754-went-the-other-way-new-ons-data-shows/",
       "date": "Thu, 30 Jul 2026 10:43:13 +0000",
       "summary": "More people left Flintshire for countries outside the UK than moved here from them in the twelve months to June 2025, figures published by the Office for National Statistics this morning show. Over that year, 603 people arrived in the county from outside the UK and 754 left, a difference of 151. There were also",
-      "tag": "News"
-    },
-    {
-      "title": "“Some relief this morning”: police log a clear night after run of Flintshire fires",
-      "url": "https://www.deeside.com/some-relief-this-morning-police-log-a-clear-night-after-run-of-flintshire-fires/",
-      "date": "Thu, 30 Jul 2026 09:21:57 +0000",
-      "summary": "North Wales Police officers in north Flintshire reported no arson incidents overnight, after a run of fires in the open across the county. North Wales Police North Flintshire said in a daily policing update: &#8220;Some relief this morning to see we’ve had no arson reports overnight&#8221;. Fires in the open have been a repeated problem",
       "tag": "News"
     }
   ]
