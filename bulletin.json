@@ -1,11 +1,18 @@
 {
-  "updated": "2026-08-07T13:30:57.704Z",
+  "updated": "2026-08-07T13:45:59.336Z",
   "stories": [
     {
       "title": "Flintshire parents say children with additional learning needs are being failed",
       "url": "https://www.deeside.com/flintshire-parents-say-children-with-additional-learning-needs-are-being-failed/",
       "date": "Fri, 07 Aug 2026 13:06:36 +0000",
       "summary": "Parents of children with additional learning needs say the system in Flintshire is broken. The Local Democracy Reporting Service has received more than 20 case studies from across the county highlighting serious failings within the service. Parents who have passed on their stories have requested anonymity to protect their vulnerable children but their stories share",
+      "tag": "News"
+    },
+    {
+      "title": "Flintshire temperatures forecast to reach 30C on Wednesday",
+      "url": "https://www.deeside.com/flintshire-temperatures-forecast-to-reach-30c-on-wednesday/",
+      "date": "Fri, 07 Aug 2026 11:37:07 +0000",
+      "summary": "Temperatures in Flintshire are forecast to reach 30C on Wednesday, the hottest day of a week of building heat across England and Wales. The forecast for Hawarden, updated on Friday morning, gives Tuesday 11 August a high of 29C and Wednesday 12 August a high of 30C. Wednesday is expected to feel like 28C, with",
       "tag": "News"
     },
     {
@@ -27,13 +34,6 @@
       "url": "https://www.deeside.com/plans-to-turn-197-year-old-chapel-into-cottage-submitted-to-flintshire-council/",
       "date": "Thu, 06 Aug 2026 21:28:13 +0000",
       "summary": "A 197-year-old Wesleyan Methodist chapel in Flintshire may soon be transformed into a four-bedroom cottage. Seion Chapel in Lloc was originally built in 1810, but was rebuilt in 1829 in its current form. Built to serve as a place of worship for members of the Wesleyan Methodist Church – a religious group considered a minority",
-      "tag": "News"
-    },
-    {
-      "title": "More than 600 children a day using Flintshire summer playschemes",
-      "url": "https://www.deeside.com/more-than-600-children-a-day-using-flintshire-summer-playschemes/",
-      "date": "Thu, 06 Aug 2026 15:10:05 +0000",
-      "summary": "More than 600 children a day are attending Flintshire’s free summer playschemes, with places still open at some of the 49 sites running through the holidays. Flintshire County Council runs the sessions across the six weeks of the school break, led by trained playworkers. Some sites open for the full six weeks. Others run for",
       "tag": "News"
     }
   ]
