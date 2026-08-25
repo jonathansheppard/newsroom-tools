@@ -1,11 +1,18 @@
 {
-  "updated": "2026-08-25T11:15:59.576Z",
+  "updated": "2026-08-25T11:30:57.727Z",
   "stories": [
     {
       "title": "North Wales Police puts domestic abuse specialist in its 999 control room",
       "url": "https://www.deeside.com/north-wales-police-puts-domestic-abuse-specialist-in-its-999-control-room/",
       "date": "Tue, 25 Aug 2026 11:15:15 +0000",
       "summary": "A domestic abuse specialist has been placed inside the control room where North Wales Police answers 999 and 101 calls. The force announced the appointment on Monday 24 August. The specialist works alongside call handlers and dispatch staff in the Force Communications Centre, giving advice during live incidents, supporting risk assessments and helping decide what",
+      "tag": "News"
+    },
+    {
+      "title": "Cheshire Constabulary investigating suspected arson at Chester’s ancient Minerva Shrine",
+      "url": "https://www.deeside.com/cheshire-constabulary-investigating-suspected-arson-at-chesters-ancient-minerva-shrine/",
+      "date": "Tue, 25 Aug 2026 10:15:41 +0000",
+      "summary": "Police are appealing for witnesses after a fire was deliberately set at the Minerva Shrine, the Roman carving in Edgar’s Field, Handbridge. Cheshire Constabulary said the fire is believed to have happened between Monday 17 and Tuesday 18 August. Officers from the force’s Rural Crime Team were told about it at around 2.20pm on Thursday",
       "tag": "News"
     },
     {
@@ -27,13 +34,6 @@
       "url": "https://www.deeside.com/new-synthetic-opioids-found-in-welsh-drug-testing-samples-for-the-first-time/",
       "date": "Tue, 25 Aug 2026 09:16:39 +0000",
       "summary": "More than a third of drug samples sent to a Welsh testing service over the past year did not contain the substance the sender thought they had bought, Public Health Wales has said. The figure of 36.6 per cent comes from the annual report of the Welsh Emerging Drug Identification Service, known as WEDINOS, published",
-      "tag": "News"
-    },
-    {
-      "title": "RAC predicts busiest late August bank holiday on the roads since 2015",
-      "url": "https://www.deeside.com/rac-predicts-busiest-late-august-bank-holiday-on-the-roads-since-2015/",
-      "date": "Tue, 25 Aug 2026 09:06:23 +0000",
-      "summary": "Around 20 million leisure car trips are expected over the late August bank holiday, the RAC says, in what could be the busiest getaway since its records began in 2015. The forecast covers Friday 28 August to Monday 31 August. Friday is expected to be the heaviest day, with 4.1 million trips planned, which the",
       "tag": "News"
     }
   ]
