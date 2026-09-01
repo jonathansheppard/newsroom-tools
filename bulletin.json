@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-01T12:15:59.688Z",
+  "updated": "2026-09-01T12:30:57.717Z",
   "stories": [
+    {
+      "title": "Wales has had its warmest summer on record, Met Office says",
+      "url": "https://www.deeside.com/wales-has-had-its-warmest-summer-on-record-met-office-says/",
+      "date": "Tue, 01 Sep 2026 12:27:15 +0000",
+      "summary": "Wales has provisionally had its warmest summer since records began, with a mean temperature of 16.9°C, the Met Office has said. The mean temperature is the average of each day’s highest and lowest readings across the whole season, so it takes in nights as well as afternoons. The figure is 2.2°C above the 1991 to",
+      "tag": "News"
+    },
     {
       "title": "Burst water main closes A494 for the day between New Brighton and Ewloe",
       "url": "https://www.deeside.com/burst-water-main-closes-a494-for-the-day-between-new-brighton-and-ewloe/",
@@ -27,13 +34,6 @@
       "url": "https://www.deeside.com/flint-town-hall-to-host-adult-learners-week-event-on-21-september/",
       "date": "Mon, 31 Aug 2026 21:27:56 +0000",
       "summary": "An advice event on work, training and courses is being held at Flint Town Hall on Monday 21 September. It runs from 10am to 2pm. Flintshire County Council said organisations attending will include Coleg Cambria, the further education college with a campus at Deeside, and NEWCIS, the North East Wales Carers Information Service, which supports",
-      "tag": "News"
-    },
-    {
-      "title": "Man dies after collision involving three cars on M56 in Cheshire",
-      "url": "https://www.deeside.com/man-dies-after-collision-involving-three-cars-on-m56-in-cheshire/",
-      "date": "Mon, 31 Aug 2026 18:28:15 +0000",
-      "summary": "A pedestrian died after a collision involving three cars on the M56 eastbound between Hapsford and Runcorn in the early hours of Monday morning. Cheshire Police were called at around 12.50am, and paramedics also attended the scene between junction 14 and junction 12. The man, believed to be 38 and from Golborne, was pronounced dead",
       "tag": "News"
     }
   ]
