@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-03T17:30:57.710Z",
+  "updated": "2026-09-03T17:45:59.572Z",
   "stories": [
+    {
+      "title": "Broken rail at Conwy disrupts Holyhead to Chester services",
+      "url": "https://www.deeside.com/broken-rail-at-conwy-disrupts-holyhead-to-chester-services/",
+      "date": "Thu, 03 Sep 2026 17:42:32 +0000",
+      "summary": "A broken rail at Conwy is disrupting train services between Holyhead and Chester. Services may be delayed by up to 60 minutes. Services may be cancelled in both directions between Holyhead and Chester, a route used by passengers travelling through Flintshire toward Chester. Disruption is expected from 18:15 until the end of the day. A",
+      "tag": "News"
+    },
     {
       "title": "Police appeal to find missing Bagillt teenager Leon",
       "url": "https://www.deeside.com/olice-appeal-to-find-missing-bagillt-teenager-leon/",
@@ -27,13 +34,6 @@
       "url": "https://www.deeside.com/north-wales-pccs-five-minute-checklist-for-students-starting-term-this-month/",
       "date": "Thu, 03 Sep 2026 14:26:40 +0000",
       "summary": "North Wales Police and the Police and Crime Commissioner for North Wales have backed a five-point safety checklist for students starting or returning to college and university this autumn. The checklist comes from Get Safe Online, a service commissioned by the Office of the Police and Crime Commissioner and North Wales Police, which says students",
-      "tag": "News"
-    },
-    {
-      "title": "NHS leaders give cautious welcome to Welsh Government waiting list plan",
-      "url": "https://www.deeside.com/nhs-leaders-give-cautious-welcome-to-welsh-government-waiting-list-plan/",
-      "date": "Thu, 03 Sep 2026 12:01:35 +0000",
-      "summary": "The Welsh Government has set out how it plans to end two-year waits for NHS treatment and bring the overall waiting list back to pre-pandemic levels before the end of this Senedd term. Betsi Cadwaladr University Health Board, which runs hospital care for Flintshire, has the highest proportion of patients waiting more than a year",
       "tag": "News"
     }
   ]
