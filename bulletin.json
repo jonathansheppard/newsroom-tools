@@ -1,11 +1,18 @@
 {
-  "updated": "2026-09-15T06:45:59.523Z",
+  "updated": "2026-09-15T07:00:57.913Z",
   "stories": [
     {
       "title": "Pubs, cafés and gyms across Wales set for 30% rates cut",
       "url": "https://www.deeside.com/pubs-cafes-and-gyms-across-wales-set-for-30-rates-cut/",
       "date": "Tue, 15 Sep 2026 06:35:32 +0000",
       "summary": "Pubs, cafés, hotels and gyms with a rateable value below £51,000 are set for a permanent 30 per cent cut to their business rates from April 2027, the Welsh Government has confirmed. The change would apply to food and drink hospitality venues, including pubs, restaurants, cafés, bars, food courts, licensed clubs and live music venues.",
+      "tag": "News"
+    },
+    {
+      "title": "Pubs and bars in Wales and England can now accept digital ID for alcohol sales",
+      "url": "https://www.deeside.com/pubs-and-bars-in-wales-and-england-can-now-accept-digital-id-for-alcohol-sales/",
+      "date": "Tue, 15 Sep 2026 05:58:50 +0000",
+      "summary": "Pubs, bars, shops and other licensed premises in Wales and England can now choose to accept digital proof of age for alcohol sales, under new rules that came into force on Tuesday. The change means customers can use a certified app on their phone to confirm they are over 18, instead of showing physical ID.",
       "tag": "News"
     },
     {
@@ -27,13 +34,6 @@
       "url": "https://www.deeside.com/gp-referrals-to-glan-clwyd-ae-sent-to-email-address-nobody-was-monitoring-inspectors-told/",
       "date": "Mon, 14 Sep 2026 21:46:13 +0000",
       "summary": "GPs were sending patient referrals to Ysbyty Glan Clwyd’s emergency department using an email address that was not being monitored, inspectors were told, meaning some patients arrived without the department knowing they had been referred. The finding appears in the full Healthcare Inspectorate Wales report into the Bodelwyddan hospital’s emergency department, published on Thursday following",
-      "tag": "News"
-    },
-    {
-      "title": "Flintshire Catholic super-school consultation rejected by 96% for second time",
-      "url": "https://www.deeside.com/flintshire-catholic-super-school-consultation-rejected-by-96-for-second-time/",
-      "date": "Mon, 14 Sep 2026 14:46:22 +0000",
-      "summary": "A second statutory consultation on plans to close and merge four Catholic schools in Flintshire has drawn 2,813 responses, with around 96 per cent opposed to every element of the proposal. It is the second time the plan has been out to consultation, and the second time it has been rejected by close to the",
       "tag": "News"
     }
   ]
