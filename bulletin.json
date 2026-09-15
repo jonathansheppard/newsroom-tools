@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T07:00:57.913Z",
+  "updated": "2026-09-15T07:15:59.731Z",
   "stories": [
     {
       "title": "Pubs, cafés and gyms across Wales set for 30% rates cut",
@@ -16,6 +16,13 @@
       "tag": "News"
     },
     {
+      "title": "Petrol and diesel prices reach highest level since 2022",
+      "url": "https://www.deeside.com/petrol-and-diesel-prices-reach-highest-level-since-2022/",
+      "date": "Mon, 14 Sep 2026 23:08:16 +0000",
+      "summary": "Petrol and diesel prices have reached their highest level since August 2022, with the RAC warning there is no end in sight to the rises. RAC head of policy Simon Williams said petrol climbed to 169.68p a litre on Monday and diesel to 191.68p, surpassing Sunday’s highs of 169.52p and 191.54p. He said filling a",
+      "tag": "News"
+    },
+    {
       "title": "Grade II listed Holywell house approved for conversion into three flats after 11-month wait",
       "url": "https://www.deeside.com/grade-ii-listed-holywell-house-approved-for-conversion-into-three-flats-after-11-month-wait/",
       "date": "Mon, 14 Sep 2026 22:02:51 +0000",
@@ -27,13 +34,6 @@
       "url": "https://www.deeside.com/mold-football-club-launches-new-girls-team-as-sponsorship-deal-enters-second-season/",
       "date": "Mon, 14 Sep 2026 21:55:53 +0000",
       "summary": "Mold Alexandra FC has launched a new under-9s girls’ football team, for children in school years 3 and 4, funded by a second season of sponsorship from PR agency Outwrite. The team will be led by Ava Roberts, a coach who has progressed from assistant to head coach through the partnership. The sponsorship deal between",
-      "tag": "News"
-    },
-    {
-      "title": "GP referrals to Glan Clwyd A&E sent to email address nobody was monitoring, inspectors told",
-      "url": "https://www.deeside.com/gp-referrals-to-glan-clwyd-ae-sent-to-email-address-nobody-was-monitoring-inspectors-told/",
-      "date": "Mon, 14 Sep 2026 21:46:13 +0000",
-      "summary": "GPs were sending patient referrals to Ysbyty Glan Clwyd’s emergency department using an email address that was not being monitored, inspectors were told, meaning some patients arrived without the department knowing they had been referred. The finding appears in the full Healthcare Inspectorate Wales report into the Bodelwyddan hospital’s emergency department, published on Thursday following",
       "tag": "News"
     }
   ]
