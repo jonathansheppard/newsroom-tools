@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-30T10:30:57.945Z",
+  "updated": "2026-09-30T10:45:59.436Z",
   "stories": [
+    {
+      "title": "Price cap rises to £1,723 as forecasters predict near £2,000 bills from January",
+      "url": "https://www.deeside.com/price-cap-rises-to-1723-as-forecasters-predict-near-2000-bills-from-january/",
+      "date": "Wed, 30 Sep 2026 10:37:23 +0000",
+      "summary": "Energy bills for households on standard tariffs will rise by 4 per cent from Thursday, with a further increase of about 16 per cent forecast for January. Ofgem’s price cap for a typical household paying for gas and electricity by direct debit goes up from £1,663 to £1,723 a year, an increase of £60, or",
+      "tag": "News"
+    },
     {
       "title": "North Wales Coast line to close through Flint and Shotton for three weeks in January",
       "url": "https://www.deeside.com/north-wales-coast-line-to-close-through-flint-and-shotton-for-three-weeks-in-january/",
@@ -27,13 +34,6 @@
       "url": "https://www.deeside.com/fine-for-leaving-engine-running-while-parked-rises-to-up-to-150-in-wales/",
       "date": "Tue, 29 Sep 2026 22:09:00 +0000",
       "summary": "Drivers in Wales who leave their engines running while parked face fines of up to £150 from today, up from £20. The fixed penalty for stationary idling, which is enforced by local authorities, now ranges from £75 to £150, the Welsh Government said. Under Rule 123 of the Highway Code, drivers must not leave a",
-      "tag": "News"
-    },
-    {
-      "title": "Airbus A350F freighter with Broughton-built wings makes first flight",
-      "url": "https://www.deeside.com/airbus-a350f-freighter-with-broughton-built-wings-makes-first-flight/",
-      "date": "Tue, 29 Sep 2026 15:57:08 +0000",
-      "summary": "A new Airbus cargo plane with wings built at Broughton has made its first flight. The first A350F freighter test aircraft took off from Toulouse on Tuesday 29 September and flew for four hours and 10 minutes, reaching 25,000 feet and a speed of 340 knots. Airbus said the wings for the A350F were assembled",
       "tag": "News"
     }
   ]
