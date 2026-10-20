@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-20T17:00:59.499Z",
+  "updated": "2026-10-20T17:15:59.601Z",
   "stories": [
+    {
+      "title": "Council tax revaluation delayed again as £80m support bill proves too costly",
+      "url": "https://www.deeside.com/council-tax-revaluation-delayed-again-as-80m-support-bill-proves-too-costly/",
+      "date": "Tue, 20 Oct 2026 17:05:57 +0000",
+      "summary": "Council tax bands in Wales will stay based on 2003 property values for longer, after the Welsh Government paused plans for a revaluation. Cabinet Minister for Finance Elin Jones told the Senedd that legislation will be brought forward next month to defer the revaluation until the next Senedd term. Research estimated that about a quarter",
+      "tag": "News"
+    },
     {
       "title": "Castell Alun named flagship school for Airbus Future Engineers Programm",
       "url": "https://www.deeside.com/castell-alun-named-flagship-school-for-airbus-future-engineers-programm/",
@@ -28,13 +35,6 @@
       "date": "Tue, 20 Oct 2026 10:39:24 +0000",
       "summary": "Flintshire’s schools are forecast to be £8.2 million in the red by next March, as the council’s audited accounts confirm schools ended last year in deficit. The council published notice last week that the audit of its 2025/26 Statement of Accounts had been completed, after the Auditor General for Wales gave the accounts a clean",
       "tag": "News"
-    },
-    {
-      "title": "CMA proposes opening up iPhone contactless payments to rival apps",
-      "url": "https://www.deeside.com/cma-proposes-opening-up-iphone-contactless-payments-to-rival-apps/",
-      "date": "Tue, 20 Oct 2026 10:17:16 +0000",
-      "summary": "Apple could be required to open up the iPhone’s contactless technology to rival payment apps, digital IDs and travel passes under proposals from the UK’s competition watchdog. The Competition and Markets Authority (CMA) published the plans for consultation on Tuesday. Under the plans, Apple would have to let other businesses use both of the main",
-      "tag": "info"
     }
   ]
 }
