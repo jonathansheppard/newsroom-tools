@@ -420,7 +420,39 @@
 
   footer a:hover { color: var(--text); }
 
+  /* ── DECISIONS PANEL ── */
+  .decisions {
+    padding: 14px 24px;
+    border-bottom: 1px solid var(--border);
+    background: var(--surface);
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    flex-wrap: wrap;
+  }
+
+  .decisions h2 {
+    font-size: 11px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--green);
+    margin-right: 4px;
+  }
+
+  .btn-green {
+    background: var(--green-bg);
+    border-color: var(--green);
+    color: var(--green);
+  }
+
+  .btn-green:hover {
+    background: var(--green);
+    color: #000;
+  }
+
   @media (max-width: 600px) {
+    .decisions { padding: 12px 16px; }
     header { padding: 12px 16px; }
     .toolbar { padding: 10px 16px; }
     .grid-container { padding: 14px 16px; }
@@ -448,6 +480,28 @@
     <button class="btn" onclick="openAll()">Open All ↗</button>
   </div>
 </header>
+
+<div class="decisions">
+  <h2>Determined</h2>
+  <div class="date-group">
+    <label>Decided from</label>
+    <input type="date" id="decFrom">
+  </div>
+  <div class="date-group">
+    <label>To</label>
+    <input type="date" id="decTo">
+  </div>
+  <button class="btn-ghost" onclick="setDecRange('lastweek')">Last week</button>
+  <button class="btn-ghost" onclick="setDecRange('thisweek')">This week</button>
+  <button class="btn-ghost" onclick="setDecRange('last7')">Last 7 days</button>
+  <a class="btn btn-green" id="decLink" href="#" target="_blank" rel="noopener" style="text-decoration:none;">Search decisions ↗</a>
+  <button class="icon-btn" title="Copy URL" onclick="copyDecURL(this)">
+    <svg width="12" height="12" viewBox="0 0 16 16" fill="currentColor">
+      <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"/>
+      <path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"/>
+    </svg>
+  </button>
+</div>
 
 <div class="toolbar">
   <input class="filter-input" type="text" id="filterInput" placeholder="Filter by code or name…" oninput="applyFilter()">
@@ -636,6 +690,69 @@ function showToast(msg) {
   t.classList.add('show');
   setTimeout(() => t.classList.remove('show'), 2200);
 }
+
+// ── DETERMINED APPLICATIONS ──
+function ymd(d) {
+  return d.getFullYear() + '-' + String(d.getMonth() + 1).padStart(2, '0') + '-' + String(d.getDate()).padStart(2, '0');
+}
+
+// UK offset for a given date (+01:00 in BST, +00:00 in GMT)
+function ukOffset(dateStr) {
+  const [y, m, d] = dateStr.split('-').map(Number);
+  const mins = -new Date(y, m - 1, d, 12).getTimezoneOffset();
+  const sign = mins >= 0 ? '+' : '-';
+  const a = Math.abs(mins);
+  return sign + String(Math.floor(a / 60)).padStart(2, '0') + ':' + String(a % 60).padStart(2, '0');
+}
+
+function buildDecURL() {
+  const from = document.getElementById('decFrom').value;
+  const to   = document.getElementById('decTo').value;
+  const obj = {
+    status:           'determined',
+    decisionDateFrom: from + 'T00:00:00' + ukOffset(from),
+    decisionDateTo:   to   + 'T23:59:59' + ukOffset(to)
+  };
+  return `https://planning.agileapplications.co.uk/flintshire/search-applications/results?criteria=${encodeURIComponent(JSON.stringify(obj))}&page=1`;
+}
+
+function updateDecLink() {
+  document.getElementById('decLink').href = buildDecURL();
+}
+
+function setDecRange(which) {
+  const today = new Date();
+  const dow = (today.getDay() + 6) % 7; // Monday = 0
+  let from, to;
+  if (which === 'lastweek') {
+    from = new Date(today); from.setDate(today.getDate() - dow - 7);
+    to   = new Date(from);  to.setDate(from.getDate() + 6);
+  } else if (which === 'thisweek') {
+    from = new Date(today); from.setDate(today.getDate() - dow);
+    to   = today;
+  } else {
+    from = new Date(today); from.setDate(today.getDate() - 6);
+    to   = today;
+  }
+  document.getElementById('decFrom').value = ymd(from);
+  document.getElementById('decTo').value   = ymd(to);
+  updateDecLink();
+}
+
+function copyDecURL(btn) {
+  const url = buildDecURL();
+  navigator.clipboard.writeText(url).then(() => {
+    btn.classList.add('copied');
+    showToast('URL copied: decisions');
+    setTimeout(() => btn.classList.remove('copied'), 1500);
+  }).catch(() => {
+    prompt('Copy this URL:', url);
+  });
+}
+
+document.getElementById('decFrom').addEventListener('change', updateDecLink);
+document.getElementById('decTo').addEventListener('change', updateDecLink);
+setDecRange('lastweek');
 
 // Set today's date as default for dateTo
 document.getElementById('dateTo').value = new Date().toISOString().slice(0, 10);
