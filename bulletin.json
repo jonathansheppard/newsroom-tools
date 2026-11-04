@@ -1,12 +1,19 @@
 {
-  "updated": "2026-11-04T22:30:47.386Z",
+  "updated": "2026-11-04T22:45:47.437Z",
   "stories": [
     {
       "title": "Flintshire council can’t say if recycling centre cuts saved £250,000",
       "url": "https://www.deeside.com/flintshire-council-cant-say-if-recycling-centre-cuts-saved-250000/",
-      "date": "Wed, 04 Nov 2026 22:26:44 +0000",
+      "date": "Wed, 04 Nov 2026 22:39:44 +0000",
       "summary": "Flintshire Council cannot say whether cutting recycling centre opening hours saved the £250,000 it was supposed to, according to an internal audit. The audit gives the council’s management of household recycling centres and fly-tipping the lowest rating of “limited assurance”. It will go before the council’s environment and economy scrutiny committee on Tuesday (10 November).",
-      "tag": "News"
+      "tag": "Flintshire County Council"
+    },
+    {
+      "title": "Flintshire council missed 12,171 bins in nine months",
+      "url": "https://www.deeside.com/flintshire-council-missed-12171-bins-in-nine-months/",
+      "date": "Wed, 04 Nov 2026 22:33:08 +0000",
+      "summary": "Missed bin collections in Flintshire rose sharply in May and June, a report to councillors shows. It puts this down to driver shortages, reduced supervision and changes to collection rounds. Outstanding missed collection cases peaked at 1,582 in June 2026. The figures will go before the council’s environment and economy scrutiny committee on Tuesday (10",
+      "tag": "Flintshire County Council"
     },
     {
       "title": "Greenfield Valley parkrun to welcome walkers for World Diabetes Day",
@@ -28,13 +35,6 @@
       "date": "Wed, 04 Nov 2026 17:21:30 +0000",
       "summary": "North Wales Police’s email and webchat services are down because of technical problems in its force control room. Its 101 phone line is unaffected, the force said, although people may have to wait longer than usual. The force said: If your call is not an emergency and you’d rather not wait in a call queue,",
       "tag": "News"
-    },
-    {
-      "title": "Parc Adfer carbon capture plant approved despite doubts over 95% claim",
-      "url": "https://www.deeside.com/parc-adfer-carbon-capture-approved-despite-95-capture-doubts/",
-      "date": "Wed, 04 Nov 2026 15:48:53 +0000",
-      "summary": "Plans to capture carbon dioxide from the Parc Adfer waste plant on Deeside Industrial Park have been approved by Flintshire councillors. Enfinium wants to build a carbon capture plant next to its energy recovery facility off Weighbridge Road. The facility burns non-recyclable rubbish from Flintshire, Conwy, Denbighshire, Gwynedd and Anglesey. The council’s planning committee backed",
-      "tag": "Flintshire County Council"
     }
   ]
 }
