@@ -1,6 +1,13 @@
 {
-  "updated": "2026-11-04T17:15:48.400Z",
+  "updated": "2026-11-04T17:30:47.065Z",
   "stories": [
+    {
+      "title": "North Wales Police email and webchat down after control room technical problems",
+      "url": "https://www.deeside.com/north-wales-police-email-and-webchat-down-after-control-room-technical-problems/",
+      "date": "Wed, 04 Nov 2026 17:21:30 +0000",
+      "summary": "North Wales Police’s email and webchat services are down because of technical problems in its force control room. Its 101 phone line is unaffected, the force said, although people may have to wait longer than usual. The force said: If your call is not an emergency and you’d rather not wait in a call queue,",
+      "tag": "News"
+    },
     {
       "title": "Parc Adfer carbon capture plant approved despite doubts over 95% claim",
       "url": "https://www.deeside.com/parc-adfer-carbon-capture-approved-despite-95-capture-doubts/",
@@ -28,13 +35,6 @@
       "date": "Wed, 04 Nov 2026 13:26:20 +0000",
       "summary": "Cheshire Police have released a CCTV image of a man they want to identify after a fire was deliberately started in a hotel room on Brook Street in Chester. Emergency services were called to the hotel shortly after 2.30pm on Tuesday 30 June. Officers found that someone had forced entry into the room and deliberately",
       "tag": "News"
-    },
-    {
-      "title": "Saltney school closures: formal objection period opens until 1 December",
-      "url": "https://www.deeside.com/saltney-school-closures-formal-objection-period-opens-until-1-december/",
-      "date": "Wed, 04 Nov 2026 10:32:08 +0000",
-      "summary": "People who want to object to plans to close Saltney Ferry and Saltney Wood Memorial primary schools have until 1 December to do so. Flintshire County Council published its statutory notice on the plans on 3 November, which opens a 28-day objection period. Comments made during the summer consultation will not be counted as objections,",
-      "tag": "Flintshire County Council"
     }
   ]
 }
