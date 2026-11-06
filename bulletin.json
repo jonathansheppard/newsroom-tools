@@ -1,6 +1,13 @@
 {
-  "updated": "2026-11-06T13:45:47.304Z",
+  "updated": "2026-11-06T14:00:47.368Z",
   "stories": [
+    {
+      "title": "Almost 50,000 Flintshire homes to get £100 energy payment",
+      "url": "https://www.deeside.com/almost-50000-flintshire-homes-to-get-100-energy-payment/",
+      "date": "Fri, 06 Nov 2026 14:00:22 +0000",
+      "summary": "Flintshire County Council will contact the 49,706 households in council tax bands A-D directly once the one-off payment is available, expected in the new year.",
+      "tag": "Flintshire County Council"
+    },
     {
       "title": "Just 40 Flintshire homes had free energy upgrades under Wales’s flagship fuel poverty scheme",
       "url": "https://www.deeside.com/just-40-flintshire-homes-had-free-energy-upgrades-under-waless-flagship-fuel-poverty-scheme/",
@@ -28,13 +35,6 @@
       "date": "Fri, 06 Nov 2026 08:34:55 +0000",
       "summary": "Emergency crossing points built into the A55 at a cost of £3.97m were not used once between September 2021 and October 2026. Figures released by the Welsh Government under the Freedom of Information Act show none of the 36 gates in the central reservation were used as emergency crossovers between 4 September 2021 and 11",
       "tag": "News"
-    },
-    {
-      "title": "Flintshire council warns of scams as landlines move to digital",
-      "url": "https://www.deeside.com/flintshire-council-warns-of-scams-as-landlines-move-to-digital/",
-      "date": "Fri, 06 Nov 2026 07:43:11 +0000",
-      "summary": "Flintshire County Council has warned residents that scammers may pose as BT as households are contacted about the end of traditional landlines. The old analogue phone network is due to close by 31 January 2027, and the council said scammers may attempt to exploit this transition period, posing as legitimate representatives to obtain personal information.",
-      "tag": "Flintshire County Council"
     }
   ]
 }
