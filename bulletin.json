@@ -1,6 +1,13 @@
 {
-  "updated": "2026-11-08T10:15:47.670Z",
+  "updated": "2026-11-08T10:30:47.212Z",
   "stories": [
+    {
+      "title": "Yellow fog warning issued for Flintshire and Wrexham overnight into Monday",
+      "url": "https://www.deeside.com/yellow-fog-warning-issued-for-flintshire-and-wrexham-overnight-into-monday/",
+      "date": "Sun, 08 Nov 2026 10:19:22 +0000",
+      "summary": "A yellow weather warning for fog has been issued for Flintshire and Wrexham from 6pm on Sunday until 11am on Monday. The Met Office said visibility could fall to around 50 metres or less in some places. The warning also covers Denbighshire, Conwy, Gwynedd, Cheshire West and Chester and Merseyside, along with much of England",
+      "tag": "News"
+    },
     {
       "title": "Flintshire remembers: Remembrance Sunday services and parades across the county today",
       "url": "https://www.deeside.com/connahs-quay-and-shotton-remember-the-fallen-with-service-parade-and-wreath-laying/",
@@ -27,13 +34,6 @@
       "url": "https://www.deeside.com/veterans-commissioner-for-wales-calls-for-military-families-to-be-recognised-this-remembranc/",
       "date": "Sat, 07 Nov 2026 19:52:49 +0000",
       "summary": "The Veterans’ Commissioner for Wales has called for military families and the wider community to be recognised alongside those who served this Remembrance. James Phillips, a former Army colonel who served for 33 years, was appointed as Wales’s first Veterans’ Commissioner in 2022. He is also a trustee of the Wales Air Ambulance Charity and",
-      "tag": "News"
-    },
-    {
-      "title": "Record crowd of more than 5,000 at Flint RNLI fireworks display at Flint Castle",
-      "url": "https://www.deeside.com/record-crowd-of-more-than-5000-at-flint-rnli-fireworks-display-at-flint-castle/",
-      "date": "Sat, 07 Nov 2026 19:37:59 +0000",
-      "summary": "More than 5,000 people turned out for Flint RNLI’s annual fireworks display at Flint Castle on Friday night, according to the lifeboat station. Volunteers estimate the crowd was a record for the event, which raises money for the station. Flint Town Mayor Councillor Elaine Jones and her deputy, Val Neevitt, opened the evening by lighting",
       "tag": "News"
     }
   ]
