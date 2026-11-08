@@ -1,6 +1,13 @@
 {
-  "updated": "2026-11-08T08:00:47.200Z",
+  "updated": "2026-11-08T08:15:47.217Z",
   "stories": [
+    {
+      "title": "Flintshire remembers: Remembrance Sunday services and parades across the county today",
+      "url": "https://www.deeside.com/connahs-quay-and-shotton-remember-the-fallen-with-service-parade-and-wreath-laying/",
+      "date": "Sun, 08 Nov 2026 08:06:46 +0000",
+      "summary": "Communities across Flintshire are holding Remembrance Sunday services and parades today. Roads are closing in nine towns and villages for the events, with the first closures from 9am and the last, in Flint, running until 4.30pm. In Connah’s Quay, people are asked to assemble at the Civic Hall from 9.30am and be seated by 9.55am",
+      "tag": "News"
+    },
     {
       "title": "Plans to demolish fire-hit former Elms Hotel in Sealand among latest Flintshire planning decisions",
       "url": "https://www.deeside.com/plans-to-demolish-fire-hit-former-elms-hotel-in-sealand-among-latest-flintshire-planning-decisions/",
@@ -27,13 +34,6 @@
       "url": "https://www.deeside.com/record-crowd-of-more-than-5000-at-flint-rnli-fireworks-display-at-flint-castle/",
       "date": "Sat, 07 Nov 2026 19:37:59 +0000",
       "summary": "More than 5,000 people turned out for Flint RNLI’s annual fireworks display at Flint Castle on Friday night, according to the lifeboat station. Volunteers estimate the crowd was a record for the event, which raises money for the station. Flint Town Mayor Councillor Elaine Jones and her deputy, Val Neevitt, opened the evening by lighting",
-      "tag": "News"
-    },
-    {
-      "title": "Water supplies back to normal in Flint, Bagillt and Gronant following issues on Saturday",
-      "url": "https://www.deeside.com/water-supplies-affected-in-flint-bagillt-and-gronant-on-saturday-evening/",
-      "date": "Sat, 07 Nov 2026 18:44:23 +0000",
-      "summary": "Update: Supplies are back up and running. Earlier report: Homes in parts of Flint and Bagillt may have no water or low pressure this evening, Welsh Water has said. The water company is dealing with a supply problem in Oakenholt and surrounding areas of Flint, and a burst water main affecting Foel Gron in Bagillt.",
       "tag": "News"
     }
   ]
