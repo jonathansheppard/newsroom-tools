@@ -1,6 +1,13 @@
 {
-  "updated": "2026-11-08T05:45:47.308Z",
+  "updated": "2026-11-08T06:00:47.295Z",
   "stories": [
+    {
+      "title": "Fog warning for Flintshire with visibility below 50 metres in places",
+      "url": "https://www.deeside.com/fog-warning-for-flintshire-with-visibility-below-50-metres-in-places/",
+      "date": "Sun, 08 Nov 2026 05:49:06 +0000",
+      "summary": "The Met Office expanded its yellow warning into north east Wales overnight, with delays to buses, trains and flights possible.",
+      "tag": "News"
+    },
     {
       "title": "Veterans’ Commissioner for Wales calls for military families to be recognised this Remembrance",
       "url": "https://www.deeside.com/veterans-commissioner-for-wales-calls-for-military-families-to-be-recognised-this-remembranc/",
@@ -27,13 +34,6 @@
       "url": "https://www.deeside.com/first-designs-for-buckley-town-centre-revamp-to-go-on-show-at-precinct-drop-in/",
       "date": "Sat, 07 Nov 2026 11:39:37 +0000",
       "summary": "The first concept designs for a revamp of Buckley town centre will go on show in Buckley Precinct on Thursday 12 November. People can see the ideas and talk to the project team at a drop-in session between 10am and 5pm. The designs have been drawn up by Hemingway, working with WSP, in partnership with",
-      "tag": "News"
-    },
-    {
-      "title": "About three million self-assessment taxpayers to move to regular in-year tax payments",
-      "url": "https://www.deeside.com/about-three-million-self-assessment-taxpayers-to-move-to-regular-in-year-tax-payments/",
-      "date": "Sat, 07 Nov 2026 11:34:50 +0000",
-      "summary": "About three million self-assessment taxpayers will pay their income tax in smaller, more regular instalments during the year from April 2029, HMRC has confirmed. The change replaces the twice-yearly payments on account, due on 31 January and 31 July, which self-employed people and landlords have made for around 30 years. The government confirmed the move",
       "tag": "News"
     }
   ]
