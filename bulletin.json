@@ -1,6 +1,13 @@
 {
-  "updated": "2026-11-08T17:45:47.827Z",
+  "updated": "2026-11-08T18:00:48.031Z",
   "stories": [
+    {
+      "title": "Power cut hits part of Penyffordd with supply due back by 10pm",
+      "url": "https://www.deeside.com/power-cut-hits-part-of-penyffordd-with-supply-due-back-by-10pm/",
+      "date": "Sun, 08 Nov 2026 17:58:47 +0000",
+      "summary": "Part of Penyffordd is without power this afternoon after an unplanned power cut, with SP Energy Networks aiming to restore supplies by 9.59pm.",
+      "tag": "News"
+    },
     {
       "title": "Deeside Ice Rink’s Christmas sessions had 21,000 attendances last year, and they’re back",
       "url": "https://www.deeside.com/deeside-ice-rinks-christmas-sessions-had-21000-attendances-last-year-and-theyre-back/",
@@ -28,13 +35,6 @@
       "date": "Sun, 08 Nov 2026 11:21:19 +0000",
       "summary": "The number of new affordable homes delivered in Flintshire almost halved last year, Welsh Government figures show. The county delivered 110 additional affordable homes between April 2025 and March 2026, down from 213 the year before. Only the Vale of Glamorgan, down 172, recorded a bigger fall in Wales. Across Wales, 3,865 additional affordable homes",
       "tag": "Deeside in Data"
-    },
-    {
-      "title": "Met Office fog warning issued for Flintshire and Wrexham overnight into Monday",
-      "url": "https://www.deeside.com/yellow-fog-warning-issued-for-flintshire-and-wrexham-overnight-into-monday/",
-      "date": "Sun, 08 Nov 2026 10:19:22 +0000",
-      "summary": "A yellow weather warning for fog has been issued for Flintshire and Wrexham from 6pm on Sunday until 11am on Monday. The Met Office said visibility could fall to around 50 metres or less in some places. The warning also covers Denbighshire, Conwy, Gwynedd, Cheshire West and Chester and Merseyside, along with much of England",
-      "tag": "News"
     }
   ]
 }
