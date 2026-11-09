@@ -1,6 +1,13 @@
 {
-  "updated": "2026-11-09T07:45:47.459Z",
+  "updated": "2026-11-09T08:00:47.267Z",
   "stories": [
+    {
+      "title": "Connah’s Quay power plant steps up as wind output drops and grid operator asks for more generation",
+      "url": "https://www.deeside.com/connahs-quay-power-plant-steps-up-as-wind-output-drops-and-grid-operator-asks-for-more-generation/",
+      "date": "Mon, 09 Nov 2026 07:52:52 +0000",
+      "summary": "Connah’s Quay power station is running three of its four gas turbines at close to full output this morning, as Britain’s electricity system operator asks for extra generation. The National Energy System Operator (NESO) issued an Electricity Margin Notice at 7.17pm on Sunday, warning of a 1,388 megawatt shortfall in its spare capacity between 6am",
+      "tag": "News"
+    },
     {
       "title": "Flintshire roadworks this week: closures in Mold, Holywell, Penyffordd and Queensferry",
       "url": "https://www.deeside.com/flintshire-roadworks-this-week-closures-in-mold-holywell-penyffordd-and-queensferry/",
@@ -27,13 +34,6 @@
       "url": "https://www.deeside.com/neighbours-and-eastenders-stars-are-coming-to-mold-theatr-clwyd-reveals-its-2027-shows/",
       "date": "Sun, 08 Nov 2026 18:30:19 +0000",
       "summary": "Neighbours actor Stefan Dennis and EastEnders actor Charlie Brooks are among the names heading to Theatr Clwyd in Mold in 2027. The theatre has announced its touring programme for January to July, with drama, comedy, family shows and gigs. Dennis stars in The King’s Speech, adapted from the Oscar-winning film, from 2 to 6 February.",
-      "tag": "News"
-    },
-    {
-      "title": "Power resorted in Penyffordd following earlier outage",
-      "url": "https://www.deeside.com/power-cut-hits-part-of-penyffordd-with-supply-due-back-by-10pm/",
-      "date": "Sun, 08 Nov 2026 17:58:47 +0000",
-      "summary": "Part of Penyffordd is without power this afternoon after an unplanned power cut, with SP Energy Networks aiming to restore supplies by 9.59pm.",
       "tag": "News"
     }
   ]
