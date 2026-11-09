@@ -1,6 +1,13 @@
 {
-  "updated": "2026-11-09T12:15:47.370Z",
+  "updated": "2026-11-09T12:30:47.289Z",
   "stories": [
+    {
+      "title": "300 jobs expected as work begins on Port of Mostyn industrial site",
+      "url": "https://www.deeside.com/300-jobs-expected-as-work-begins-on-port-of-mostyn-industrial-site/",
+      "date": "Mon, 09 Nov 2026 12:26:06 +0000",
+      "summary": "Work has started on bringing a former industrial site at the Port of Mostyn back into use, as part of a £14.7 million upgrade backed by the North Wales Growth Deal. Site clearance at Marsh Row has been completed, according to Ambition North Wales, which runs the Growth Deal. The next stage is reconnecting mains",
+      "tag": "News"
+    },
     {
       "title": "Welsh Water emergency work leaves villages near Holywell with low or no water",
       "url": "https://www.deeside.com/welsh-water-emergency-work-leaves-villages-near-holywell-with-low-or-no-water/",
@@ -27,13 +34,6 @@
       "url": "https://www.deeside.com/yellow-fog-warning-for-flintshire-from-6pm-tonight-until-tuesday-morning/",
       "date": "Mon, 09 Nov 2026 08:58:03 +0000",
       "summary": "A yellow weather warning for fog is in place across Flintshire from 6pm today until 10am on Tuesday. The Met Office says fog will redevelop this evening, becoming dense at times overnight, with visibility reduced to less than 100 metres. It says this will likely lead to some delays to transport and difficult travelling conditions.",
-      "tag": "News"
-    },
-    {
-      "title": "Grid operator cancels call for extra power after Connah’s Quay steps up as wind output drops",
-      "url": "https://www.deeside.com/connahs-quay-power-plant-steps-up-as-wind-output-drops-and-grid-operator-asks-for-more-generation/",
-      "date": "Mon, 09 Nov 2026 07:52:52 +0000",
-      "summary": "Britain’s electricity system operator has cancelled a call for extra generation, after Connah’s Quay power station ran three of its four gas turbines at close to full output this morning. The National Energy System Operator (NESO) issued an Electricity Margin Notice for 8am to 11am on Monday, warning of a shortfall in its spare capacity,",
       "tag": "News"
     }
   ]
