@@ -1,6 +1,13 @@
 {
-  "updated": "2026-11-11T08:15:47.220Z",
+  "updated": "2026-11-11T08:30:47.265Z",
   "stories": [
+    {
+      "title": "A494 River Dee bridge flood modelling redone after Natural Resources Wales concerns",
+      "url": "https://www.deeside.com/a494-river-dee-bridge-flood-modelling-redone-after-natural-resources-wales-concerns/",
+      "date": "Wed, 11 Nov 2026 08:23:50 +0000",
+      "summary": "The flood risk study for the replacement A494 River Dee bridge has been redone after Natural Resources Wales raised concerns about its accuracy. The new results show the bridge could add up to 6mm to the depth of flood water in residential parts of Garden City, but only in the most extreme flood tested. The",
+      "tag": "News"
+    },
     {
       "title": "Cathay orders 14 more Airbus aircraft with Broughton-built wings",
       "url": "https://www.deeside.com/cathay-orders-14-more-airbus-aircraft-with-broughton-built-wings/",
@@ -28,13 +35,6 @@
       "date": "Tue, 10 Nov 2026 19:59:59 +0000",
       "summary": "Placemaking plans for Flint and Mold, the last of seven for Flintshire’s towns, have been backed by councillors.",
       "tag": "News"
-    },
-    {
-      "title": "More than 2,000 Welsh veterans in hidden homelessness, Senedd Member claims",
-      "url": "https://www.deeside.com/more-than-2000-welsh-veterans-in-hidden-homelessness-senedd-member-claims/",
-      "date": "Tue, 10 Nov 2026 18:48:02 +0000",
-      "summary": "More than 2,000 military veterans in Wales fall into the covert category of homelessness, a Senedd Member has claimed during First Minister’s Questions. On Tuesday November 10, Casnewydd Islwyn MS Art Wright asked Rhun ap Iorwerth what action the Welsh Government was taking to tackle homelessness among veterans. Appearing to extrapolate Wales-specific figures from the",
-      "tag": "Senedd"
     }
   ]
 }
