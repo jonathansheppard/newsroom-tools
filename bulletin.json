@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T19:15:47.324Z",
+  "updated": "2026-11-11T19:30:47.504Z",
   "stories": [
     {
       "title": "Brake testing takes trains off Wrexham to Bidston line with no warning to passengers",
@@ -7,6 +7,13 @@
       "date": "Wed, 11 Nov 2026 18:18:28 +0000",
       "summary": "Transport for Wales has cut trains on the Wrexham to Bidston line for six days with no warning on its disruption page, and says they will not count as cancellations. The company confirmed the cuts after a passenger told Deeside.com that trains had vanished from the train times on the TfW app and website. The",
       "tag": "News"
+    },
+    {
+      "title": "Flintshire’s economy in five numbers: output, income, pay, jobs and the gender gap",
+      "url": "https://www.deeside.com/flintshires-economy-in-five-numbers-output-income-pay-jobs-and-the-gender-gap/",
+      "date": "Wed, 11 Nov 2026 18:11:43 +0000",
+      "summary": "Flintshire’s economy produces more per head than the UK average, but household incomes in the county are about 10% below it, official figures show. The county generated £36,230 of economic output for every resident in 2023, according to figures published by StatsWales. The UK figure was £35,661 and the figure for Wales was £25,742. Only",
+      "tag": "Deeside in Data"
     },
     {
       "title": "The Flintshire sniffer dogs helping the National Crime Agency search high street shops",
@@ -28,13 +35,6 @@
       "date": "Wed, 11 Nov 2026 14:41:58 +0000",
       "summary": "Every household in council tax bands A to D in Wales is to get a £100 cost of living payment, the Welsh Government has announced. The payment will also go to everyone who gets council tax reduction, whatever band their home is in. Sioned Williams, the Deputy First Minister and Cabinet Minister for Social Justice",
       "tag": "info"
-    },
-    {
-      "title": "Reform MS tells Senedd there should be “no more devolution in any area”",
-      "url": "https://www.deeside.com/reform-ms-tells-senedd-there-should-be-no-more-devolution-in-any-area/",
-      "date": "Wed, 11 Nov 2026 14:40:07 +0000",
-      "summary": "There should be “no more devolution in any area”, a Reform MS has told the Senedd. Sir Gaerfyrddin MS, Sarah Edwards, said Reform’s position on further devolution is “clear” and called for the Welsh Government to “do better with the powers [they] already have”. Her comments came on Tuesday, November 10, following a question from",
-      "tag": "News"
     }
   ]
 }
