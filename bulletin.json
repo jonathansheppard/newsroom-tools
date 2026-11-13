@@ -1,6 +1,13 @@
 {
-  "updated": "2026-11-13T15:30:47.321Z",
+  "updated": "2026-11-13T15:45:47.327Z",
   "stories": [
+    {
+      "title": "Bird keepers across Wales must follow new bird flu rules from Monday",
+      "url": "https://www.deeside.com/bird-keepers-across-wales-must-follow-new-bird-flu-rules-from-monday/",
+      "date": "Fri, 13 Nov 2026 15:33:32 +0000",
+      "summary": "Anyone in Wales who keeps chickens, ducks, geese or other birds must follow new rules to stop the spread of bird flu from midday on Monday 16 November, however few birds they have. The Welsh Government is bringing in an all-Wales Avian Influenza Prevention Zone, a set of compulsory hygiene rules for bird keepers. Llyr",
+      "tag": "News"
+    },
     {
       "title": "Flintshire Cabinet accused of shelving school transport review until after election",
       "url": "https://www.deeside.com/flintshire-cabinet-accused-of-shelving-school-transport-review-until-after-election/",
@@ -9,10 +16,10 @@
       "tag": "Flintshire County Council"
     },
     {
-      "title": "Police close Flintshire Bridge both ways due to A548 incident in Connah’s Quay",
+      "title": "Flintshire Bridge back open following earlier incident",
       "url": "https://www.deeside.com/police-close-flintshire-bridge-both-ways-due-to-a548-incident-in-connahs-quay/",
       "date": "Fri, 13 Nov 2026 14:26:32 +0000",
-      "summary": "The Flintshire Bridge is closed in both directions because of an incident on the A548 in Connah’s Quay, police have said. North Wales Police’s North Flintshire team said officers were at the scene on Friday afternoon. The team said: Please avoid the area for the time being and take alternative routes where possible. Flint RNLI",
+      "summary": "Update: The bridge has now reopened. Earlier report: The Flintshire Bridge is closed in both directions because of an incident on the A548 in Connah’s Quay, police have said. North Wales Police’s North Flintshire team said officers were at the scene on Friday afternoon. The team said: Please avoid the area for the time being",
       "tag": "News"
     },
     {
@@ -28,13 +35,6 @@
       "date": "Fri, 13 Nov 2026 11:21:46 +0000",
       "summary": "Update: Traffic maps show vehicles are now moving freely on the A494 in Gwernymynydd following an earlier closure. Earlier report: The A494 is blocked in both directions in Gwernymynydd, near Mold, after a collision. The road is blocked between Maeshafn Road and Hafod Road, and traffic is queueing. Flight tracking data shows an air ambulance",
       "tag": "info"
-    },
-    {
-      "title": "Microsoft outage disrupts train tickets, Flintshire Council email and health board enquiries",
-      "url": "https://www.deeside.com/flintshire-council-warns-of-delayed-replies-as-microsoft-outage-disrupts-email/",
-      "date": "Fri, 13 Nov 2026 10:27:32 +0000",
-      "summary": "Rail passengers who cannot open emailed train tickets, and people waiting on replies from Flintshire Council or the North Wales health board, are being affected by a global Microsoft outage. Transport for Wales (TfW) said the outage was affecting customers’ ability to get to their train tickets through Outlook email. Flintshire Council said the fault",
-      "tag": "News"
     }
   ]
 }
