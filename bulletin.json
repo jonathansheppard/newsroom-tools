@@ -1,11 +1,18 @@
 {
-  "updated": "2026-11-13T14:45:47.313Z",
+  "updated": "2026-11-13T15:00:47.432Z",
   "stories": [
+    {
+      "title": "Flintshire Cabinet accused of shelving school transport review until after election",
+      "url": "https://www.deeside.com/flintshire-cabinet-accused-of-shelving-school-transport-review-until-after-election/",
+      "date": "Fri, 13 Nov 2026 14:48:43 +0000",
+      "summary": "The motion says a working group's recommendations missed an October deadline because Cabinet would not put them out to consultation.",
+      "tag": "Flintshire County Council"
+    },
     {
       "title": "Police close Flintshire Bridge both ways due to A548 incident in Connah’s Quay",
       "url": "https://www.deeside.com/police-close-flintshire-bridge-both-ways-due-to-a548-incident-in-connahs-quay/",
       "date": "Fri, 13 Nov 2026 14:26:32 +0000",
-      "summary": "The Flintshire Bridge is closed in both directions because of an incident on the A548 in Connah’s Quay, police have said. North Wales Police’s North Flintshire team said officers were at the scene on Friday afternoon. The team said: Please avoid the area for the time being and take alternative routes where possible. No details",
+      "summary": "The Flintshire Bridge is closed in both directions because of an incident on the A548 in Connah’s Quay, police have said. North Wales Police’s North Flintshire team said officers were at the scene on Friday afternoon. The team said: Please avoid the area for the time being and take alternative routes where possible. Flint RNLI",
       "tag": "News"
     },
     {
@@ -20,7 +27,7 @@
       "url": "https://www.deeside.com/a494-blocked-in-gwernymynydd-after-collision-with-air-ambulance-sent-to-scene/",
       "date": "Fri, 13 Nov 2026 11:21:46 +0000",
       "summary": "Update: Traffic maps show vehicles are now moving freely on the A494 in Gwernymynydd following an earlier closure. Earlier report: The A494 is blocked in both directions in Gwernymynydd, near Mold, after a collision. The road is blocked between Maeshafn Road and Hafod Road, and traffic is queueing. Flight tracking data shows an air ambulance",
-      "tag": "News"
+      "tag": "info"
     },
     {
       "title": "Microsoft outage disrupts train tickets, Flintshire Council email and health board enquiries",
@@ -28,13 +35,6 @@
       "date": "Fri, 13 Nov 2026 10:27:32 +0000",
       "summary": "Rail passengers who cannot open emailed train tickets, and people waiting on replies from Flintshire Council or the North Wales health board, are being affected by a global Microsoft outage. Transport for Wales (TfW) said the outage was affecting customers’ ability to get to their train tickets through Outlook email. Flintshire Council said the fault",
       "tag": "News"
-    },
-    {
-      "title": "Shotton Mill director joins new business board advising on North Wales economy",
-      "url": "https://www.deeside.com/shotton-mill-director-joins-new-business-board-advising-on-north-wales-economy/",
-      "date": "Fri, 13 Nov 2026 08:44:17 +0000",
-      "summary": "Jackie Pearson is one of nine members of Ambition North Wales' Business Advisory Board, which will advise on the Growth Deal and the Flintshire and Wrexham Investment Zone.",
-      "tag": "Business"
     }
   ]
 }
