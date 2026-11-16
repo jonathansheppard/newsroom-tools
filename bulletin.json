@@ -1,6 +1,13 @@
 {
-  "updated": "2026-11-16T07:30:47.273Z",
+  "updated": "2026-11-16T07:45:47.504Z",
   "stories": [
+    {
+      "title": "Welsh Government estimates put Flintshire small business rates relief at £4.99m this year, down from £6.30m",
+      "url": "https://www.deeside.com/welsh-government-estimates-put-flintshire-small-business-rates-relief-at-4-99m-this-year-down-from-6-30m/",
+      "date": "Mon, 16 Nov 2026 07:38:44 +0000",
+      "summary": "About 6,500 small businesses in Wales are paying business rates for the first time after this year’s revaluation, according to FSB Wales. The Federation of Small Businesses says the firms have been pushed over the £6,000 threshold for full Small Business Rates Relief, which has not changed since 2018. Businesses in premises with a rateable",
+      "tag": "Business"
+    },
     {
       "title": "Flintshire roadworks: closures in Shotton, Bagillt, Flint and Penymynydd from Monday",
       "url": "https://www.deeside.com/flintshire-roadworks-closures-in-shotton-bagillt-flint-and-penymynydd-from-monday/",
@@ -27,13 +34,6 @@
       "url": "https://www.deeside.com/three-mold-restaurants-given-top-food-hygiene-rating/",
       "date": "Sun, 15 Nov 2026 17:12:13 +0000",
       "summary": "Three Mold restaurants have been given the top food hygiene rating of five. Alexander’s on High Street, Belvedere Italian Restaurant on Wrexham Street and Eastern Red on Grosvenor Street were inspected on 4 and 5 November. All three were rated good for food handling, for the condition of the premises and for how food safety",
-      "tag": "News"
-    },
-    {
-      "title": "North Wales Police warns of criminals using AI to promote fake investment schemes",
-      "url": "https://www.deeside.com/north-wales-police-warns-of-criminals-using-ai-to-promote-fake-investment-schemes/",
-      "date": "Sun, 15 Nov 2026 09:54:01 +0000",
-      "summary": "Criminals are using deepfake videos and images to make fake investment offers look genuine, with over-60s most affected, the force says.",
       "tag": "News"
     }
   ]
