@@ -1,6 +1,13 @@
 {
-  "updated": "2026-11-18T06:15:47.293Z",
+  "updated": "2026-11-18T06:30:47.381Z",
   "stories": [
+    {
+      "title": "Power cut hits part of Deeside with supply due back by 9.30am",
+      "url": "https://www.deeside.com/power-cut-hits-part-of-shotton-and-hawarden-with-supply-due-back-by-9-30am/",
+      "date": "Wed, 18 Nov 2026 06:18:16 +0000",
+      "summary": "Part of Hawarden is without power this morning after an unplanned power cut, with SP Energy Networks aiming to restore supplies by 9.26am. The fault was reported at 5.11am and affects two postcodes: CH5 3HD and CH5 3HF. In an update on its website, SP Energy Networks said: “There is an unexpected power cut affecting",
+      "tag": "News"
+    },
     {
       "title": "North Wales councils asked for 5% to stand still. The draft budget guarantees 2.5%",
       "url": "https://www.deeside.com/north-wales-councils-asked-for-5-to-stand-still-the-draft-budget-guarantees-2-5/",
@@ -28,13 +35,6 @@
       "date": "Tue, 17 Nov 2026 23:02:02 +0000",
       "summary": "The family-owned firm wants three industrial coffee roasters, packaging lines and bakery equipment, with bids due in by noon on Friday.",
       "tag": "Business"
-    },
-    {
-      "title": "Black Friday shoppers warned over fake early deals as scam messages already circulating",
-      "url": "https://www.deeside.com/black-friday-shoppers-warned-over-fake-early-deals-as-scam-messages-already-circulating/",
-      "date": "Tue, 17 Nov 2026 22:36:45 +0000",
-      "summary": "Shoppers in Deeside and across Flintshire are being warned to check Black Friday deals carefully after fake messages offering early discounts began circulating weeks before the sales start. Consumer cyber security firm TrendLife said its scam team had already found fraudulent messages using lures such as Early Black Friday, Pre-Black Friday and You missed our",
-      "tag": "News"
     }
   ]
 }
