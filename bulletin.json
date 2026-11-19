@@ -1,6 +1,13 @@
 {
-  "updated": "2026-11-19T06:15:47.243Z",
+  "updated": "2026-11-19T06:30:47.503Z",
   "stories": [
+    {
+      "title": "Update: Power restored in Flint says SP Energy Networks",
+      "url": "https://www.deeside.com/update-power-restored-in-flint-says-sp-energy-networks/",
+      "date": "Thu, 19 Nov 2026 06:26:45 +0000",
+      "summary": "Part of Flint is without power tonight after an unplanned power cut, with SP Energy Networks aiming to restore supplies by 2.24am tomorrow.",
+      "tag": "News"
+    },
     {
       "title": "Flintshire council still waiting for legal advice on its own rule changes",
       "url": "https://www.deeside.com/flintshire-council-still-waiting-for-legal-advice-on-its-own-rule-changes/",
@@ -27,13 +34,6 @@
       "url": "https://www.deeside.com/flint-power-cut-sp-energy-networks-aiming-to-restore-supply-by-2-30am/",
       "date": "Wed, 18 Nov 2026 22:35:18 +0000",
       "summary": "SP Energy Networks is aiming to have power back on by 2.24am for part of Flint hit by an unplanned power cut tonight (Wednesday 18 November). Eight postcodes are affected: CH6 5JW, CH6 5JN, CH6 5DU, CH6 5DV, CH6 5JT, CH6 5JD, CH6 5JH and CH6 5JG. The area shown on SP Energy Networks’ map",
-      "tag": "News"
-    },
-    {
-      "title": "Flint High School shut on Thursday after boiler breaks down",
-      "url": "https://www.deeside.com/flint-high-school-shut-on-thursday-after-boiler-breaks-down/",
-      "date": "Wed, 18 Nov 2026 22:14:54 +0000",
-      "summary": "Flint High School will be closed to all pupils on Thursday 19 November after the school’s boiler broke down. The school said: Our school boiler is currently down. We have no heating and the canteen are unable to prepare hot food. It said: For safety reasons, Flint High School will be closed to all students",
       "tag": "News"
     }
   ]
