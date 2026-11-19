@@ -1,6 +1,13 @@
 {
-  "updated": "2026-11-19T06:30:47.503Z",
+  "updated": "2026-11-19T06:45:47.257Z",
   "stories": [
+    {
+      "title": "Fourteen Flintshire roads closed today, with Mold worst hit",
+      "url": "https://www.deeside.com/fourteen-flintshire-roads-closed-today-with-mold-worst-hit/",
+      "date": "Thu, 19 Nov 2026 06:39:35 +0000",
+      "summary": "Drivers in Mold face five sets of roadworks today, with Llys Nercwys closed until Wednesday 2 December.",
+      "tag": "News"
+    },
     {
       "title": "Update: Power restored in Flint says SP Energy Networks",
       "url": "https://www.deeside.com/update-power-restored-in-flint-says-sp-energy-networks/",
@@ -27,13 +34,6 @@
       "url": "https://www.deeside.com/ground-rents-to-be-capped-at-250-under-new-leasehold-law-covering-wales/",
       "date": "Wed, 18 Nov 2026 22:42:27 +0000",
       "summary": "Ground rents would be capped at £250 a year under a new law covering 235,000 leasehold homes in Wales, which goes before Parliament on Thursday 19 November. The Commonhold and Leasehold Reform Bill, brought forward by the UK Government, applies to both England and Wales. Leaseholders own their home for a set number of years,",
-      "tag": "News"
-    },
-    {
-      "title": "Flint power cut: SP Energy Networks aiming to restore supply by 2.30am",
-      "url": "https://www.deeside.com/flint-power-cut-sp-energy-networks-aiming-to-restore-supply-by-2-30am/",
-      "date": "Wed, 18 Nov 2026 22:35:18 +0000",
-      "summary": "SP Energy Networks is aiming to have power back on by 2.24am for part of Flint hit by an unplanned power cut tonight (Wednesday 18 November). Eight postcodes are affected: CH6 5JW, CH6 5JN, CH6 5DU, CH6 5DV, CH6 5JT, CH6 5JD, CH6 5JH and CH6 5JG. The area shown on SP Energy Networks’ map",
       "tag": "News"
     }
   ]
