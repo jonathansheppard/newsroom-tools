@@ -1,6 +1,13 @@
 {
-  "updated": "2026-11-22T11:15:47.166Z",
+  "updated": "2026-11-22T11:30:50.641Z",
   "stories": [
+    {
+      "title": "Power cut hits part of Flint with supply due back by 3.30pm",
+      "url": "https://www.deeside.com/power-cut-hits-part-of-flint-with-supply-due-back-by-3-30pm/",
+      "date": "Sun, 22 Nov 2026 11:26:04 +0000",
+      "summary": "Part of Flint is without power this morning after an unplanned power cut, with SP Energy Networks aiming to restore supplies by 3.24pm. The fault was reported at 11.09am and affects three postcodes: CH6 5DT, CH6 5DH and CH6 5JD. In an update on its website, SP Energy Networks said: “Our next available engineer will",
+      "tag": "News"
+    },
     {
       "title": "Mold Food Festival celebrates 20th birthday with top tourism award",
       "url": "https://www.deeside.com/mold-food-festival-celebrates-20th-birthday-with-top-tourism-award/",
@@ -27,13 +34,6 @@
       "url": "https://www.deeside.com/ewloe-based-moneysupermarket-warns-of-winter-fuel-payment-text-scams/",
       "date": "Sat, 21 Nov 2026 18:01:29 +0000",
       "summary": "Pensioners are being warned about fake Winter Fuel Payment texts trying to steal their bank details as the real payments are paid out. MoneySuperMarket, which is based in Ewloe, said it had found several versions of the scam, with messages pretending to be from the Department for Work and Pensions (DWP), HMRC or other government",
-      "tag": "News"
-    },
-    {
-      "title": "Government drops planned Connah’s Quay power station from HyNet carbon capture talks",
-      "url": "https://www.deeside.com/government-drops-planned-connahs-quay-power-station-from-hynet-carbon-capture-talks/",
-      "date": "Sat, 21 Nov 2026 18:01:00 +0000",
-      "summary": "Site-specific factors at the project had led to \"significant cost increases and delays since the project was first proposed\".",
       "tag": "News"
     }
   ]
