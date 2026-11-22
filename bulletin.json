@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T13:15:47.317Z",
+  "updated": "2026-11-22T13:30:47.301Z",
   "stories": [
     {
       "title": "Flintshire slips 10 places in UK economic league table as Cheshire West climbs 41",
@@ -9,10 +9,17 @@
       "tag": "Business"
     },
     {
+      "title": "North Wales Fire and Rescue Authority seeks three members of the public for standards committee",
+      "url": "https://www.deeside.com/flintshire-council-seeks-member-of-the-public-for-standards-committee-applications-close-noon-monday/",
+      "date": "Sun, 22 Nov 2026 11:26:29 +0000",
+      "summary": "North Wales Fire and Rescue Authority is looking for three members of the public to sit on the committee that oversees how its members behave, with applications closing at noon on Monday. Flintshire County Council is recruiting one more for its own standards committee in the same campaign, and people can apply for either role",
+      "tag": "Flintshire County Council"
+    },
+    {
       "title": "Power cut hits part of Flint with supply due back by 3.30pm",
       "url": "https://www.deeside.com/power-cut-hits-part-of-flint-with-supply-due-back-by-3-30pm/",
       "date": "Sun, 22 Nov 2026 11:26:04 +0000",
-      "summary": "Part of Flint is without power this morning after an unplanned power cut, with SP Energy Networks aiming to restore supplies by 3.24pm. The fault was reported at 11.09am and affects three postcodes: CH6 5DT, CH6 5DH and CH6 5JD. In an update on its website, SP Energy Networks said: “Our next available engineer will",
+      "summary": "Update, 13:20 22 Nov: SP Energy Networks says power has been restored. Earlier report: Part of Flint is without power this morning after an unplanned power cut, with SP Energy Networks aiming to restore supplies by 3.24pm. The fault was reported at 11.09am and affects three postcodes: CH6 5DT, CH6 5DH and CH6 5JD. In",
       "tag": "News"
     },
     {
@@ -27,13 +34,6 @@
       "url": "https://www.deeside.com/more-than-9000-journeys-made-on-tfw-pay-as-you-go-in-north-wales-in-first-four-weeks/",
       "date": "Sun, 22 Nov 2026 06:06:08 +0000",
       "summary": "More than 9,000 rail journeys were made using Transport for Wales (TfW) pay as you go ticketing in North Wales and the Borders in the four weeks after the scheme was expanded. The contactless tap in, tap out system started at 10 stations in the region in May and was extended to a further 15",
-      "tag": "News"
-    },
-    {
-      "title": "Bandstand square planned for Buckley car park as town centre survey closes Sunday",
-      "url": "https://www.deeside.com/bandstand-square-planned-for-buckley-car-park-as-town-centre-survey-closes-sunday/",
-      "date": "Sat, 21 Nov 2026 18:02:22 +0000",
-      "summary": "Plans for a new square with a bandstand on part of Brunswick Road car park are among the Buckley town centre designs people have until Sunday 22 November to comment on. Flintshire County Council has published concept designs for Brunswick Road, Mold Road, the main routes into the town centre and a new civic and",
       "tag": "News"
     }
   ]
