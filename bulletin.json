@@ -1,6 +1,13 @@
 {
-  "updated": "2026-11-23T08:45:47.169Z",
+  "updated": "2026-11-23T09:00:47.256Z",
   "stories": [
+    {
+      "title": "Airbus launches video series to draw young people into aerospace engineering",
+      "url": "https://www.deeside.com/airbus-launches-video-series-to-draw-young-people-into-aerospace-engineering/",
+      "date": "Mon, 23 Nov 2026 08:49:01 +0000",
+      "summary": "Airbus has launched a video series following apprentices and young engineers at its UK sites, as it tries to draw more young people into aerospace jobs. The series, Answering the Impossible Questions, is presented by science broadcaster Dallas Campbell. The first episode, out now on YouTube, goes inside the Airbus site at Filton to look",
+      "tag": "Airbus"
+    },
     {
       "title": "Three indoor padel courts are on the way to Deeside Leisure Centre",
       "url": "https://www.deeside.com/three-indoor-padel-courts-are-on-the-way-to-deeside-leisure-centre/",
@@ -28,13 +35,6 @@
       "date": "Sun, 22 Nov 2026 21:45:03 +0000",
       "summary": "Flintshire has dropped 10 places in a UK league table of local economies, while neighbouring Cheshire West and Chester has climbed 41. The UK Competitiveness Index 2026 puts Flintshire 158th of 349 council areas in Great Britain, down from 148th in 2022. Its score fell from 95.1 to 94.1, where 100 is the UK average.",
       "tag": "Business"
-    },
-    {
-      "title": "HMRC warns of fake tax refund scams ahead of 31 January Self Assessment deadline",
-      "url": "https://www.deeside.com/hmrc-warns-of-fake-tax-refund-scams-ahead-of-31-january-self-assessment-deadline/",
-      "date": "Sun, 22 Nov 2026 21:02:24 +0000",
-      "summary": "HM Revenue and Customs (HMRC) is warning anyone filing a Self Assessment tax return to watch out for fake tax refund offers as the 31 January deadline gets closer. HMRC said it received 48,119 reports of scams in the last 12 months where fraudsters pretended to be the department. In August, it received around 900",
-      "tag": "News"
     }
   ]
 }
