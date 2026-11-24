@@ -1,6 +1,13 @@
 {
-  "updated": "2026-11-24T13:30:47.472Z",
+  "updated": "2026-11-24T13:45:47.232Z",
   "stories": [
+    {
+      "title": "Flintshire and Wrexham the most productive places in Wales, ONS figures show",
+      "url": "https://www.deeside.com/flintshire-and-wrexham-the-most-productive-places-in-wales-ons-figures-show/",
+      "date": "Tue, 24 Nov 2026 13:31:59 +0000",
+      "summary": "Flintshire and Wrexham are the most productive places in Wales, according to new figures from the Office for National Statistics (ONS). The figures measure how much value the local economy produces for every hour people work. In Flintshire, each hour worked produced £52.33 in 2024, against a UK figure of £47.67. Wrexham was a penny",
+      "tag": "Business"
+    },
     {
       "title": "Flintshire councillors to discuss joint archive funding increase behind closed doors",
       "url": "https://www.deeside.com/flintshire-councillors-to-discuss-joint-archive-funding-increase-behind-closed-doors/",
@@ -27,14 +34,7 @@
       "url": "https://www.deeside.com/betsi-cadwaladr-health-board-not-functioning-as-a-single-coherent-organisation-independent-review-finds/",
       "date": "Tue, 24 Nov 2026 11:24:43 +0000",
       "summary": "The health board that runs NHS services in Flintshire and across North Wales does not have what it needs to deliver and sustain improvement, an independent review has concluded. The review panel said Betsi Cadwaladr University Health Board (BCUHB) has not developed the characteristics of a sufficiently coherent and effective organisation and does not currently",
-      "tag": "News"
-    },
-    {
-      "title": "Tidal energy firm given £2m to build first turbine for Morlais site off Anglesey",
-      "url": "https://www.deeside.com/tidal-energy-firm-given-2m-to-build-first-turbine-for-morlais-site-off-anglesey/",
-      "date": "Tue, 24 Nov 2026 09:45:56 +0000",
-      "summary": "HydroWing will use money from the North Wales Clean Energy Fund to deploy its first tidal device at Morlais in 2027.",
-      "tag": "Business"
+      "tag": "Health"
     }
   ]
 }
