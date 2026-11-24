@@ -1,6 +1,13 @@
 {
-  "updated": "2026-11-24T09:15:47.335Z",
+  "updated": "2026-11-24T09:30:47.461Z",
   "stories": [
+    {
+      "title": "How busy are Flintshire’s roads?",
+      "url": "https://www.deeside.com/how-busy-are-flintshires-roads/",
+      "date": "Tue, 24 Nov 2026 09:22:22 +0000",
+      "summary": "How many vehicles use each main road in Flintshire on an average day, from the A494 at Queensferry to the A55 and the coast road. Department for Transport traffic counts going back to 2000.",
+      "tag": "Deeside in Data"
+    },
     {
       "title": "RSPCA asks for homes in time for Christmas for dogs including shy husky at Colwyn Bay centre",
       "url": "https://www.deeside.com/rspca-asks-for-homes-in-time-for-christmas-for-dogs-including-shy-husky-at-colwyn-bay-centre/",
@@ -28,13 +35,6 @@
       "date": "Mon, 23 Nov 2026 18:23:04 +0000",
       "summary": "Welsh Labour leader Ken Skates has called on the Welsh and UK governments to keep talking about handing more powers to Wales, after the Prime Minister turned down calls to devolve policing, justice, rail infrastructure and The Crown Estate. Mr Skates, the Senedd member for Fflint Wrecsam, said he was speaking with Andy Burnham and",
       "tag": "Senedd"
-    },
-    {
-      "title": "Flintshire residents asked how much more they’d pay for policing on their council tax bill",
-      "url": "https://www.deeside.com/flintshire-residents-asked-how-much-more-theyd-pay-for-policing-on-their-council-tax-bill/",
-      "date": "Mon, 23 Nov 2026 18:02:11 +0000",
-      "summary": "The survey offers four options for an average Band D home, from £17.50 to £23.50 a year, and closes on 21 December.",
-      "tag": "News"
     }
   ]
 }
