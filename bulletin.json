@@ -1,6 +1,13 @@
 {
-  "updated": "2026-11-24T12:45:47.288Z",
+  "updated": "2026-11-24T13:00:47.480Z",
   "stories": [
+    {
+      "title": "64 Flintshire patients still in hospital days after they were ready to go home",
+      "url": "https://www.deeside.com/64-flintshire-patients-still-in-hospital-days-after-they-were-ready-to-go-home/",
+      "date": "Tue, 24 Nov 2026 12:48:04 +0000",
+      "summary": "On one day in October, 64 Flintshire people were still in hospital at least two days after they were ready to go home. The figure comes from a census taken in every hospital in Wales on the third Wednesday of each month, which also records why each patient is still there. The census found 92",
+      "tag": "Flintshire County Council"
+    },
     {
       "title": "Flintshire’s education chief says council must put more money into schools as deficit hits £3.5m",
       "url": "https://www.deeside.com/flintshires-education-chief-says-council-must-put-more-money-into-schools-as-deficit-hits-3-5m/",
@@ -28,13 +35,6 @@
       "date": "Tue, 24 Nov 2026 09:42:18 +0000",
       "summary": "Deeside-based Iceland’s charity has given £30 Christmas food vouchers to almost 600 families caring for seriously ill children, as part of a partnership built around a £250,000 fund. The Iceland Foods Charitable Foundation is working with Together for Short Lives, a charity that supports seriously ill children, their families and the UK’s 52 children’s hospices.",
       "tag": "News"
-    },
-    {
-      "title": "How busy are Flintshire’s roads?",
-      "url": "https://www.deeside.com/flintshire-road-traffic/",
-      "date": "Tue, 24 Nov 2026 09:22:22 +0000",
-      "summary": "How many vehicles use each main road in Flintshire on an average day, from the A494 at Queensferry to the A55 and the coast road. Department for Transport traffic counts going back to 2000.",
-      "tag": "Deeside in Data"
     }
   ]
 }
