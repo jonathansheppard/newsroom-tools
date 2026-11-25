@@ -1,6 +1,13 @@
 {
-  "updated": "2026-11-25T06:30:47.326Z",
+  "updated": "2026-11-25T06:45:48.046Z",
   "stories": [
+    {
+      "title": "Nineteen Flintshire roads closed today, with Mold worst hit",
+      "url": "https://www.deeside.com/nineteen-flintshire-roads-closed-today-with-mold-worst-hit/",
+      "date": "Wed, 25 Nov 2026 06:34:47 +0000",
+      "summary": "Drivers in Mold face nine sets of roadworks today, with Llys Nercwys closed until Wednesday 2 December.",
+      "tag": "News"
+    },
     {
       "title": "Better buses to Deeside Industrial Park on the way, says First Minister",
       "url": "https://www.deeside.com/better-buses-to-deeside-industrial-park-on-the-way-says-first-minister/",
@@ -27,13 +34,6 @@
       "url": "https://www.deeside.com/welsh-government-spent-30000-asking-where-a-parents-job-ends-and-a-schools-begins-and-only-five-took-part/",
       "date": "Tue, 24 Nov 2026 18:48:37 +0000",
       "summary": "Twenty parents expressed interest in research meant to help define where a parent's job ends and a school's begins, but only five took part.",
-      "tag": "News"
-    },
-    {
-      "title": "Timms Review: Changes to disability benefit could affect 12,000 people in Flintshire",
-      "url": "https://www.deeside.com/timms-review-changes-to-disability-benefit-could-affect-12000-people-in-flintshire/",
-      "date": "Tue, 24 Nov 2026 18:03:09 +0000",
-      "summary": "More than 12,000 people in Flintshire who get Personal Independence Payment (PIP) could see changes to how the benefit is assessed and paid, after a government review published today set out plans to overhaul it. The Timms Review is the first full review of PIP since the benefit was introduced in 2013. It found the",
       "tag": "News"
     }
   ]
