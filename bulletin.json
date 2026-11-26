@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T16:30:47.225Z",
+  "updated": "2026-11-26T16:45:47.295Z",
   "stories": [
     {
       "title": "Barrister’s advice sends Flintshire’s limits on challenging cabinet decisions back to full council",
@@ -16,6 +16,13 @@
       "tag": "Police"
     },
     {
+      "title": "Business Wales start-up service to stop taking new enquiries",
+      "url": "https://www.deeside.com/business-wales-start-up-service-to-stop-taking-new-enquiries/",
+      "date": "Thu, 26 Nov 2026 13:41:31 +0000",
+      "summary": "A north Wales MS says the start-up service, Big Ideas Wales and the young person's start-up grant are being scrapped before the Senedd votes on the budget.",
+      "tag": "News"
+    },
+    {
       "title": "North Wales police commissioner seeks views on council tax rise",
       "url": "https://www.deeside.com/north-wales-police-commissioner-seeks-views-on-council-tax-rise/",
       "date": "Thu, 26 Nov 2026 13:39:55 +0000",
@@ -27,13 +34,6 @@
       "url": "https://www.deeside.com/police-warn-people-across-north-wales-over-missed-delivery-scam-texts/",
       "date": "Thu, 26 Nov 2026 12:45:30 +0000",
       "summary": "North Wales Police has warned people across the region about fake text messages claiming a parcel delivery has been missed. Its cyber crime team said the messages tell the recipient they were not home and need to book a new delivery slot urgently, then give a link to a website. The team said: These messages",
-      "tag": "News"
-    },
-    {
-      "title": "North Wales pays Britain’s highest electricity charges as Flintshire MS calls for cheaper power, not net zero at any price",
-      "url": "https://www.deeside.com/north-wales-pays-britains-highest-electricity-charges-as-flintshire-ms-calls-for-cheaper-power-not-net-zero-at-any-price/",
-      "date": "Thu, 26 Nov 2026 10:12:52 +0000",
-      "summary": "Households in North Wales pay the highest electricity prices in Great Britain, figures from energy regulator Ofgem show. From 1 January, a home paying by Direct Debit will pay a standing charge of 67.59p a day for electricity. That is the fixed fee charged before any power is used. Over a year it comes to",
       "tag": "News"
     }
   ]
