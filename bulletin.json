@@ -1,6 +1,20 @@
 {
-  "updated": "2026-11-26T19:15:47.346Z",
+  "updated": "2026-11-26T19:30:47.296Z",
   "stories": [
+    {
+      "title": "Nine Flintshire postcodes hit by Thursday night power cut",
+      "url": "https://www.deeside.com/nine-flintshire-postcodes-hit-by-thursday-night-power-cut/",
+      "date": "Thu, 26 Nov 2026 19:24:06 +0000",
+      "summary": "Part of Gwespyr is without power this evening after an unplanned power cut, with SP Energy Networks aiming to restore supplies by 11.20pm.",
+      "tag": "News"
+    },
+    {
+      "title": "NHS trust says it did not know Betsi review findings when it appointed Carol Shillabeer",
+      "url": "https://www.deeside.com/nhs-trust-says-it-did-not-know-betsi-review-findings-when-it-appointed-carol-shillabeer/",
+      "date": "Thu, 26 Nov 2026 19:21:50 +0000",
+      "summary": "Betsi Cadwaladr chief executive Carol Shillabeer has withdrawn from a new job running an NHS trust in England, days after a review found serious failings in the health board’s leadership. Lancashire and South Cumbria NHS Foundation Trust said she had taken the personal decision to withdraw from the role and will no longer be joining",
+      "tag": "Health"
+    },
     {
       "title": "Betsi Cadwaladr chair tells staff we have heard what you say after leadership review",
       "url": "https://www.deeside.com/betsi-cadwaladr-chair-tells-staff-we-have-heard-what-you-say-after-leadership-review/",
@@ -21,20 +35,6 @@
       "date": "Thu, 26 Nov 2026 15:33:41 +0000",
       "summary": "Flintshire councillors will vote next week on whether to keep new limits on their power to challenge cabinet decisions, after a barrister said the safest course was to look at them again. Councillors use a process called call-in to pause a cabinet decision and send it to a committee for a second look before it",
       "tag": "Flintshire County Council"
-    },
-    {
-      "title": "North Wales Police is warning about suspicious calls showing their own 0300 330 0101 number",
-      "url": "https://www.deeside.com/north-wales-police-is-warning-about-suspicious-calls-showing-their-own-0300-330-0101-number/",
-      "date": "Thu, 26 Nov 2026 15:25:07 +0000",
-      "summary": "North Wales Police is warning people about suspicious calls from a number showing as its own non-emergency line, 0300 330 0101. The force said it received multiple reports last night from people who had received numerous missed calls from the number. It said: We suspect these calls may involve AI-generated or automated calling technology, although",
-      "tag": "Police"
-    },
-    {
-      "title": "Business Wales start-up service to stop taking new enquiries",
-      "url": "https://www.deeside.com/business-wales-start-up-service-to-stop-taking-new-enquiries/",
-      "date": "Thu, 26 Nov 2026 13:41:31 +0000",
-      "summary": "A north Wales MS says the start-up service, Big Ideas Wales and the young person's start-up grant are being scrapped before the Senedd votes on the budget.",
-      "tag": "News"
     }
   ]
 }
