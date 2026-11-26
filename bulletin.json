@@ -1,6 +1,13 @@
 {
-  "updated": "2026-11-26T15:15:47.296Z",
+  "updated": "2026-11-26T15:30:47.250Z",
   "stories": [
+    {
+      "title": "North Wales Police is warning about suspicious calls showing their own 0300 330 0101 number",
+      "url": "https://www.deeside.com/north-wales-police-is-warning-about-suspicious-calls-showing-their-own-0300-330-0101-number/",
+      "date": "Thu, 26 Nov 2026 15:25:07 +0000",
+      "summary": "North Wales Police is warning people about suspicious calls from a number showing as its own non-emergency line, 0300 330 0101. The force said it received multiple reports last night from people who had received numerous missed calls from the number. It said: We suspect these calls may involve AI-generated or automated calling technology, although",
+      "tag": "Police"
+    },
     {
       "title": "North Wales police commissioner seeks views on council tax rise",
       "url": "https://www.deeside.com/north-wales-police-commissioner-seeks-views-on-council-tax-rise/",
@@ -27,13 +34,6 @@
       "url": "https://www.deeside.com/sixteen-flintshire-roads-closed-today-with-mold-worst-hit/",
       "date": "Thu, 26 Nov 2026 09:51:17 +0000",
       "summary": "Drivers in Mold face 10 sets of roadworks today, with Llys Nercwys closed until Wednesday 2 December.",
-      "tag": "News"
-    },
-    {
-      "title": "Black Friday warning as fake phone network scams hit 15,000 cases",
-      "url": "https://www.deeside.com/black-friday-warning-as-fake-phone-network-scams-hit-15000-cases/",
-      "date": "Thu, 26 Nov 2026 07:45:53 +0000",
-      "summary": "Scams by fraudsters pretending to be mobile phone networks are up 85% this year. There have been more than 15,000 cases so far, which is 58 a day, according to fraud prevention service Cifas. Losses have passed an estimated £32 million. The scammers offer cheap handsets, free upgrades or time-limited Black Friday and Christmas deals",
       "tag": "News"
     }
   ]
