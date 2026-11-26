@@ -1,6 +1,13 @@
 {
-  "updated": "2026-11-26T09:45:47.224Z",
+  "updated": "2026-11-26T10:00:47.309Z",
   "stories": [
+    {
+      "title": "Sixteen Flintshire roads closed today, with Mold worst hit",
+      "url": "https://www.deeside.com/sixteen-flintshire-roads-closed-today-with-mold-worst-hit/",
+      "date": "Thu, 26 Nov 2026 09:51:17 +0000",
+      "summary": "Drivers in Mold face 10 sets of roadworks today, with Llys Nercwys closed until Wednesday 2 December.",
+      "tag": "News"
+    },
     {
       "title": "Black Friday warning as fake phone network scams hit 15,000 cases",
       "url": "https://www.deeside.com/black-friday-warning-as-fake-phone-network-scams-hit-15000-cases/",
@@ -27,13 +34,6 @@
       "url": "https://www.deeside.com/senedd-rejects-bid-to-pause-wales-drinks-deposit-return-scheme/",
       "date": "Wed, 25 Nov 2026 22:54:47 +0000",
       "summary": "Glass stays in the Welsh scheme after MSs reject calls for a pause and a review, leaving Deeside on the border with England's scheme without glass.",
-      "tag": "News"
-    },
-    {
-      "title": "Coleg Cambria named College of the Year, and a Deeside lecturer is among the UK’s best",
-      "url": "https://www.deeside.com/coleg-cambria-named-college-of-the-year-and-a-deeside-lecturer-is-among-the-uks-best/",
-      "date": "Wed, 25 Nov 2026 22:32:28 +0000",
-      "summary": "Coleg Cambria was crowned College of the Year at a prestigious national awards ceremony, with one of its leading lecturers recognised among the UK’s best. The college secured the top honour at the VTCT Skills Excellence Awards 2026, held at Rugby College, while Kelly Pasicznyk, Hairdressing Lecturer and Equity Specialist at Deeside, was highly commended",
       "tag": "News"
     }
   ]
