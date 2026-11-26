@@ -1,6 +1,13 @@
 {
-  "updated": "2026-11-26T23:30:47.353Z",
+  "updated": "2026-11-26T23:45:47.281Z",
   "stories": [
+    {
+      "title": "Labour’s Laura Murton wins Mold Broncoed by-election",
+      "url": "https://www.deeside.com/labours-laura-murton-wins-mold-broncoed-by-election/",
+      "date": "Thu, 26 Nov 2026 23:43:52 +0000",
+      "summary": "Labour’s Laura Murton has won the Mold Broncoed by-election, keeping the Flintshire County Council seat for her party. She received 250 votes, ahead of Reform UK Wales candidate Richard Clarke on 197. Welsh Liberal Democrat Nanette Davies came third with 139 votes. Kathy Cracknell of the Welsh Conservatives received 36 votes, Ted Jenkins of Restore",
+      "tag": "News"
+    },
     {
       "title": "Four Flintshire council motions shut out by new three-motion limit",
       "url": "https://www.deeside.com/four-flintshire-council-motions-shut-out-by-new-three-motion-limit/",
@@ -28,13 +35,6 @@
       "date": "Thu, 26 Nov 2026 19:24:06 +0000",
       "summary": "Part of Gwespyr is without power this evening after an unplanned power cut, with SP Energy Networks aiming to restore supplies by 11.20pm.",
       "tag": "info"
-    },
-    {
-      "title": "NHS trust says it did not know Betsi review findings when it appointed Carol Shillabeer",
-      "url": "https://www.deeside.com/nhs-trust-says-it-did-not-know-betsi-review-findings-when-it-appointed-carol-shillabeer/",
-      "date": "Thu, 26 Nov 2026 19:21:50 +0000",
-      "summary": "Betsi Cadwaladr chief executive Carol Shillabeer has withdrawn from a new job running an NHS trust in England, days after a review found serious failings in the health board’s leadership. Lancashire and South Cumbria NHS Foundation Trust said she had taken the personal decision to withdraw from the role and will no longer be joining",
-      "tag": "Health"
     }
   ]
 }
