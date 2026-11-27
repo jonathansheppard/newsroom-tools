@@ -1,6 +1,13 @@
 {
-  "updated": "2026-11-27T15:15:47.406Z",
+  "updated": "2026-11-27T15:30:48.041Z",
   "stories": [
+    {
+      "title": "Deeside circuit board maker awarded £150k to help safeguard 77 jobs",
+      "url": "https://www.deeside.com/deeside-circuit-board-maker-awarded-150k-to-help-safeguard-77-jobs/",
+      "date": "Fri, 27 Nov 2026 15:17:16 +0000",
+      "summary": "A Deeside circuit board maker has been awarded £154,784 by the Welsh Government for new manufacturing technology, which it says will help safeguard 77 skilled jobs. Merlin Circuit Technology makes printed circuit boards, known as PCBs, for high-reliability sectors including aerospace and advanced engineering. The Welsh Government said the investment is expected to quadruple production",
+      "tag": "Business"
+    },
     {
       "title": "Suspended North Wales Police officer denies rape and sexual assault charges",
       "url": "https://www.deeside.com/suspended-north-wales-police-officer-denies-rape-and-sexual-assault-charges/",
@@ -19,7 +26,7 @@
       "title": "Power cut hits part of Sandycroft with supply due back by 1.30pm",
       "url": "https://www.deeside.com/power-cut-hits-part-of-sandycroft-with-supply-due-back-by-1-30pm/",
       "date": "Fri, 27 Nov 2026 11:30:10 +0000",
-      "summary": "Update, 14:40 27 Nov: SP Energy Networks now expects power to be restored by 5pm. Update, 12:55 27 Nov: SP Energy Networks now expects power to be restored by 3pm. Part of Sandycroft is without power this morning after an unplanned power cut, with SP Energy Networks aiming to restore supplies by 1.24pm. The fault",
+      "summary": "Update, 15:28 27 Nov: SP Energy Networks says power has been restored. Earlier report: Update, 14:40 27 Nov: SP Energy Networks now expects power to be restored by 5pm. Update, 12:55 27 Nov: SP Energy Networks now expects power to be restored by 3pm. Part of Sandycroft is without power this morning after an unplanned",
       "tag": "News"
     },
     {
@@ -27,13 +34,6 @@
       "url": "https://www.deeside.com/power-cut-hits-part-of-holywell-with-supply-due-back-by-3pm/",
       "date": "Fri, 27 Nov 2026 11:08:20 +0000",
       "summary": "Update, 12:20 27 Nov: SP Energy Networks now expects power to be restored by 7pm. Part of Holywell is without power this morning after an unplanned power cut, with SP Energy Networks aiming to restore supplies by 3pm. The fault was reported at 10.47am and affects seven postcodes: CH8 7AP, CH8 7AR, CH8 7AJ, CH8",
-      "tag": "News"
-    },
-    {
-      "title": "Announcements do not get people to work: MS demands dates for £20m Flintshire bus plan",
-      "url": "https://www.deeside.com/announcements-do-not-get-people-to-work-ms-demands-dates-for-20m-flintshire-bus-plan/",
-      "date": "Fri, 27 Nov 2026 08:50:37 +0000",
-      "summary": "The First Minister has said improved bus links to Deeside Industrial Park will move into implementation by the end of the 2027-28 financial year.",
       "tag": "News"
     }
   ]
