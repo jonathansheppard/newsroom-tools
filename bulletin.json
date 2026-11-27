@@ -1,6 +1,13 @@
 {
-  "updated": "2026-11-27T07:15:47.153Z",
+  "updated": "2026-11-27T07:30:47.332Z",
   "stories": [
+    {
+      "title": "Burst water main leaves parts of Holywell with low pressure or no water",
+      "url": "https://www.deeside.com/burst-water-main-leaves-parts-of-holywell-with-low-pressure-or-no-water/",
+      "date": "Fri, 27 Nov 2026 07:24:34 +0000",
+      "summary": "A burst water main is affecting supplies in parts of Holywell this morning, Dŵr Cymru has said. The water company’s incident map shows the affected area covers parts of Holway and Bryn Celyn. In an update at 6.14am on Friday 27 November, Dŵr Cymru said: We’re aware of a burst on our network which is",
+      "tag": "News"
+    },
     {
       "title": "Labour’s Laura Murton wins Mold Broncoed by-election",
       "url": "https://www.deeside.com/labours-laura-murton-wins-mold-broncoed-by-election/",
@@ -28,13 +35,6 @@
       "date": "Thu, 26 Nov 2026 21:55:07 +0000",
       "summary": "Hollybank Care Home on Shotton Lane was rated good for well-being, care, environment and leadership, with no areas for improvement found.",
       "tag": "News"
-    },
-    {
-      "title": "Nine Flintshire postcodes hit by Thursday night power cut",
-      "url": "https://www.deeside.com/nine-flintshire-postcodes-hit-by-thursday-night-power-cut/",
-      "date": "Thu, 26 Nov 2026 19:24:06 +0000",
-      "summary": "Part of Gwespyr is without power this evening after an unplanned power cut, with SP Energy Networks aiming to restore supplies by 11.20pm.",
-      "tag": "info"
     }
   ]
 }
