@@ -1,6 +1,13 @@
 {
-  "updated": "2026-11-27T12:00:47.402Z",
+  "updated": "2026-11-27T12:15:47.314Z",
   "stories": [
+    {
+      "title": "Power cut hits part of Sandycroft with supply due back by 1.30pm",
+      "url": "https://www.deeside.com/power-cut-hits-part-of-sandycroft-with-supply-due-back-by-1-30pm/",
+      "date": "Fri, 27 Nov 2026 12:02:10 +0000",
+      "summary": "Part of Sandycroft is without power this morning after an unplanned power cut, with SP Energy Networks aiming to restore supplies by 1.24pm.",
+      "tag": "News"
+    },
     {
       "title": "Power cut hits part of Holywell with supply due back by 3pm",
       "url": "https://www.deeside.com/power-cut-hits-part-of-holywell-with-supply-due-back-by-3pm/",
@@ -28,13 +35,6 @@
       "date": "Fri, 27 Nov 2026 08:44:46 +0000",
       "summary": "Blackmail is the most common crime linked to Instagram in North Wales this year, police figures show. North Wales Police, which covers Flintshire, has listed 65 occurrences recorded in 2026 where Instagram was mentioned in the occurrence summary. Of those, 27 were recorded as blackmail. The figures were released under the Freedom of Information Act",
       "tag": "info"
-    },
-    {
-      "title": "Burst water main leaves parts of Holywell with low pressure or no water",
-      "url": "https://www.deeside.com/burst-water-main-leaves-parts-of-holywell-with-low-pressure-or-no-water/",
-      "date": "Fri, 27 Nov 2026 07:24:34 +0000",
-      "summary": "A burst water main is affecting supplies in parts of Holywell this morning, Dŵr Cymru has said. The water company’s incident map shows the affected area covers parts of Holway and Bryn Celyn. In an update at 6.14am on Friday 27 November, Dŵr Cymru said: We’re aware of a burst on our network which is",
-      "tag": "News"
     }
   ]
 }
