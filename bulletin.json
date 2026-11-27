@@ -1,6 +1,13 @@
 {
-  "updated": "2026-11-27T15:30:48.041Z",
+  "updated": "2026-11-27T15:45:47.291Z",
   "stories": [
+    {
+      "title": "Gary Speed: 15 years since death of Deeside-born Wales manager",
+      "url": "https://www.deeside.com/gary-speed-15-years-since-death-of-deeside-born-wales-manager/",
+      "date": "Fri, 27 Nov 2026 15:44:58 +0000",
+      "summary": "It is 15 years today since Mancot-born Gary Speed died while he was manager of Wales. He died on 27 November 2011, aged 42. Gary was born at the hospital in Mancot on 8 September 1969 and grew up in Aston Park, Queensferry. He went to Queensferry Primary School, then Deeside High School and Hawarden",
+      "tag": "News"
+    },
     {
       "title": "Deeside circuit board maker awarded £150k to help safeguard 77 jobs",
       "url": "https://www.deeside.com/deeside-circuit-board-maker-awarded-150k-to-help-safeguard-77-jobs/",
@@ -27,13 +34,6 @@
       "url": "https://www.deeside.com/power-cut-hits-part-of-sandycroft-with-supply-due-back-by-1-30pm/",
       "date": "Fri, 27 Nov 2026 11:30:10 +0000",
       "summary": "Update, 15:28 27 Nov: SP Energy Networks says power has been restored. Earlier report: Update, 14:40 27 Nov: SP Energy Networks now expects power to be restored by 5pm. Update, 12:55 27 Nov: SP Energy Networks now expects power to be restored by 3pm. Part of Sandycroft is without power this morning after an unplanned",
-      "tag": "News"
-    },
-    {
-      "title": "Power cut hits part of Holywell with supply due back by 3pm",
-      "url": "https://www.deeside.com/power-cut-hits-part-of-holywell-with-supply-due-back-by-3pm/",
-      "date": "Fri, 27 Nov 2026 11:08:20 +0000",
-      "summary": "Update, 12:20 27 Nov: SP Energy Networks now expects power to be restored by 7pm. Part of Holywell is without power this morning after an unplanned power cut, with SP Energy Networks aiming to restore supplies by 3pm. The fault was reported at 10.47am and affects seven postcodes: CH8 7AP, CH8 7AR, CH8 7AJ, CH8",
       "tag": "News"
     }
   ]
