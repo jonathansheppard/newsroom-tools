@@ -1,6 +1,13 @@
 {
-  "updated": "2026-11-28T11:30:47.366Z",
+  "updated": "2026-11-28T11:45:47.338Z",
   "stories": [
+    {
+      "title": "Power cut hits part of Flint with supply due back by 3pm",
+      "url": "https://www.deeside.com/power-cut-hits-part-of-flint-with-supply-due-back-by-3pm/",
+      "date": "Sat, 28 Nov 2026 11:41:08 +0000",
+      "summary": "Part of Flint is without power this morning after an unplanned power cut, with SP Energy Networks aiming to restore supplies by 3.03pm.",
+      "tag": "News"
+    },
     {
       "title": "Number in temporary housing in Flintshire up 88% in under three years as Wales total falls",
       "url": "https://www.deeside.com/number-in-temporary-housing-in-flintshire-up-88-in-under-three-years-as-wales-total-falls/",
@@ -28,13 +35,6 @@
       "date": "Fri, 27 Nov 2026 19:50:04 +0000",
       "summary": "Five new crossings are planned on and around the A548 Bagillt Road between Greenfield and Walwen. Flintshire County Council published legal notices for the crossings on Friday 27 November. They are a zebra crossing, a toucan crossing, two parallel crossings and a signalised pedestrian crossing. A toucan crossing is a signal-controlled crossing that cyclists can",
       "tag": "Flintshire County Council"
-    },
-    {
-      "title": "Walk-in flu jab clinics open across north Wales from 1 December",
-      "url": "https://www.deeside.com/walk-in-flu-jab-clinics-open-across-north-wales-from-1-december/",
-      "date": "Fri, 27 Nov 2026 19:45:05 +0000",
-      "summary": "Eligible adults and pre-school children in north Wales can walk in to a community clinic for their NHS flu vaccine without an appointment from Tuesday 1 December, Betsi Cadwaladr University Health Board has said. The clinics will also offer the Covid-19 vaccine to people who are eligible. It comes as the latest Welsh Government surveillance",
-      "tag": "News"
     }
   ]
 }
